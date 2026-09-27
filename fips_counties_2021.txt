@@ -1,0 +1,3222 @@
+CountyFIPS	abbr	State	county
+02013	AK	Alaska	Aleutians East Borough
+02016	AK	Alaska	Aleutians West Census Area
+02020	AK	Alaska	Anchorage Municipality
+02050	AK	Alaska	Bethel Census Area
+02060	AK	Alaska	Bristol Bay Borough
+02063	AK	Alaska	Chugach Census Area
+02066	AK	Alaska	Copper River Census Area
+02068	AK	Alaska	Denali Borough
+02070	AK	Alaska	Dillingham Census Area
+02090	AK	Alaska	Fairbanks North Star Borough
+02100	AK	Alaska	Haines Borough
+02105	AK	Alaska	Hoonah-Angoon Census Area
+02110	AK	Alaska	Juneau City and Borough
+02122	AK	Alaska	Kenai Peninsula Borough
+02130	AK	Alaska	Ketchikan Gateway Borough
+02150	AK	Alaska	Kodiak Island Borough
+02158	AK	Alaska	Kusilvak Census Area
+02164	AK	Alaska	Lake and Peninsula Borough
+02170	AK	Alaska	Matanuska-Susitna Borough
+02180	AK	Alaska	Nome Census Area
+02185	AK	Alaska	North Slope Borough
+02188	AK	Alaska	Northwest Arctic Borough
+02195	AK	Alaska	Petersburg Borough
+02198	AK	Alaska	Prince of Wales-Hyder Census Area
+02220	AK	Alaska	Sitka City and Borough
+02230	AK	Alaska	Skagway Municipality
+02240	AK	Alaska	Southeast Fairbanks Census Area
+02275	AK	Alaska	Wrangell City and Borough
+02282	AK	Alaska	Yakutat City and Borough
+02290	AK	Alaska	Yukon-Koyukuk Census Area
+01001	AL	Alabama	Autauga County
+01003	AL	Alabama	Baldwin County
+01005	AL	Alabama	Barbour County
+01007	AL	Alabama	Bibb County
+01009	AL	Alabama	Blount County
+01011	AL	Alabama	Bullock County
+01013	AL	Alabama	Butler County
+01015	AL	Alabama	Calhoun County
+01017	AL	Alabama	Chambers County
+01019	AL	Alabama	Cherokee County
+01021	AL	Alabama	Chilton County
+01023	AL	Alabama	Choctaw County
+01025	AL	Alabama	Clarke County
+01027	AL	Alabama	Clay County
+01029	AL	Alabama	Cleburne County
+01031	AL	Alabama	Coffee County
+01033	AL	Alabama	Colbert County
+01035	AL	Alabama	Conecuh County
+01037	AL	Alabama	Coosa County
+01039	AL	Alabama	Covington County
+01041	AL	Alabama	Crenshaw County
+01043	AL	Alabama	Cullman County
+01045	AL	Alabama	Dale County
+01047	AL	Alabama	Dallas County
+01049	AL	Alabama	DeKalb County
+01051	AL	Alabama	Elmore County
+01053	AL	Alabama	Escambia County
+01055	AL	Alabama	Etowah County
+01057	AL	Alabama	Fayette County
+01059	AL	Alabama	Franklin County
+01061	AL	Alabama	Geneva County
+01063	AL	Alabama	Greene County
+01065	AL	Alabama	Hale County
+01067	AL	Alabama	Henry County
+01069	AL	Alabama	Houston County
+01071	AL	Alabama	Jackson County
+01073	AL	Alabama	Jefferson County
+01075	AL	Alabama	Lamar County
+01077	AL	Alabama	Lauderdale County
+01079	AL	Alabama	Lawrence County
+01081	AL	Alabama	Lee County
+01083	AL	Alabama	Limestone County
+01085	AL	Alabama	Lowndes County
+01087	AL	Alabama	Macon County
+01089	AL	Alabama	Madison County
+01091	AL	Alabama	Marengo County
+01093	AL	Alabama	Marion County
+01095	AL	Alabama	Marshall County
+01097	AL	Alabama	Mobile County
+01099	AL	Alabama	Monroe County
+01101	AL	Alabama	Montgomery County
+01103	AL	Alabama	Morgan County
+01105	AL	Alabama	Perry County
+01107	AL	Alabama	Pickens County
+01109	AL	Alabama	Pike County
+01111	AL	Alabama	Randolph County
+01113	AL	Alabama	Russell County
+01117	AL	Alabama	Shelby County
+01115	AL	Alabama	St. Clair County
+01119	AL	Alabama	Sumter County
+01121	AL	Alabama	Talladega County
+01123	AL	Alabama	Tallapoosa County
+01125	AL	Alabama	Tuscaloosa County
+01127	AL	Alabama	Walker County
+01129	AL	Alabama	Washington County
+01131	AL	Alabama	Wilcox County
+01133	AL	Alabama	Winston County
+05001	AR	Arkansas	Arkansas County
+05003	AR	Arkansas	Ashley County
+05005	AR	Arkansas	Baxter County
+05007	AR	Arkansas	Benton County
+05009	AR	Arkansas	Boone County
+05011	AR	Arkansas	Bradley County
+05013	AR	Arkansas	Calhoun County
+05015	AR	Arkansas	Carroll County
+05017	AR	Arkansas	Chicot County
+05019	AR	Arkansas	Clark County
+05021	AR	Arkansas	Clay County
+05023	AR	Arkansas	Cleburne County
+05025	AR	Arkansas	Cleveland County
+05027	AR	Arkansas	Columbia County
+05029	AR	Arkansas	Conway County
+05031	AR	Arkansas	Craighead County
+05033	AR	Arkansas	Crawford County
+05035	AR	Arkansas	Crittenden County
+05037	AR	Arkansas	Cross County
+05039	AR	Arkansas	Dallas County
+05041	AR	Arkansas	Desha County
+05043	AR	Arkansas	Drew County
+05045	AR	Arkansas	Faulkner County
+05047	AR	Arkansas	Franklin County
+05049	AR	Arkansas	Fulton County
+05051	AR	Arkansas	Garland County
+05053	AR	Arkansas	Grant County
+05055	AR	Arkansas	Greene County
+05057	AR	Arkansas	Hempstead County
+05059	AR	Arkansas	Hot Spring County
+05061	AR	Arkansas	Howard County
+05063	AR	Arkansas	Independence County
+05065	AR	Arkansas	Izard County
+05067	AR	Arkansas	Jackson County
+05069	AR	Arkansas	Jefferson County
+05071	AR	Arkansas	Johnson County
+05073	AR	Arkansas	Lafayette County
+05075	AR	Arkansas	Lawrence County
+05077	AR	Arkansas	Lee County
+05079	AR	Arkansas	Lincoln County
+05081	AR	Arkansas	Little River County
+05083	AR	Arkansas	Logan County
+05085	AR	Arkansas	Lonoke County
+05087	AR	Arkansas	Madison County
+05089	AR	Arkansas	Marion County
+05091	AR	Arkansas	Miller County
+05093	AR	Arkansas	Mississippi County
+05095	AR	Arkansas	Monroe County
+05097	AR	Arkansas	Montgomery County
+05099	AR	Arkansas	Nevada County
+05101	AR	Arkansas	Newton County
+05103	AR	Arkansas	Ouachita County
+05105	AR	Arkansas	Perry County
+05107	AR	Arkansas	Phillips County
+05109	AR	Arkansas	Pike County
+05111	AR	Arkansas	Poinsett County
+05113	AR	Arkansas	Polk County
+05115	AR	Arkansas	Pope County
+05117	AR	Arkansas	Prairie County
+05119	AR	Arkansas	Pulaski County
+05121	AR	Arkansas	Randolph County
+05125	AR	Arkansas	Saline County
+05127	AR	Arkansas	Scott County
+05129	AR	Arkansas	Searcy County
+05131	AR	Arkansas	Sebastian County
+05133	AR	Arkansas	Sevier County
+05135	AR	Arkansas	Sharp County
+05123	AR	Arkansas	St. Francis County
+05137	AR	Arkansas	Stone County
+05139	AR	Arkansas	Union County
+05141	AR	Arkansas	Van Buren County
+05143	AR	Arkansas	Washington County
+05145	AR	Arkansas	White County
+05147	AR	Arkansas	Woodruff County
+05149	AR	Arkansas	Yell County
+04001	AZ	Arizona	Apache County
+04003	AZ	Arizona	Cochise County
+04005	AZ	Arizona	Coconino County
+04007	AZ	Arizona	Gila County
+04009	AZ	Arizona	Graham County
+04011	AZ	Arizona	Greenlee County
+04012	AZ	Arizona	La Paz County
+04013	AZ	Arizona	Maricopa County
+04015	AZ	Arizona	Mohave County
+04017	AZ	Arizona	Navajo County
+04019	AZ	Arizona	Pima County
+04021	AZ	Arizona	Pinal County
+04023	AZ	Arizona	Santa Cruz County
+04025	AZ	Arizona	Yavapai County
+04027	AZ	Arizona	Yuma County
+06001	CA	California	Alameda County
+06003	CA	California	Alpine County
+06005	CA	California	Amador County
+06007	CA	California	Butte County
+06009	CA	California	Calaveras County
+06011	CA	California	Colusa County
+06013	CA	California	Contra Costa County
+06015	CA	California	Del Norte County
+06017	CA	California	El Dorado County
+06019	CA	California	Fresno County
+06021	CA	California	Glenn County
+06023	CA	California	Humboldt County
+06025	CA	California	Imperial County
+06027	CA	California	Inyo County
+06029	CA	California	Kern County
+06031	CA	California	Kings County
+06033	CA	California	Lake County
+06035	CA	California	Lassen County
+06037	CA	California	Los Angeles County
+06039	CA	California	Madera County
+06041	CA	California	Marin County
+06043	CA	California	Mariposa County
+06045	CA	California	Mendocino County
+06047	CA	California	Merced County
+06049	CA	California	Modoc County
+06051	CA	California	Mono County
+06053	CA	California	Monterey County
+06055	CA	California	Napa County
+06057	CA	California	Nevada County
+06059	CA	California	Orange County
+06061	CA	California	Placer County
+06063	CA	California	Plumas County
+06065	CA	California	Riverside County
+06067	CA	California	Sacramento County
+06069	CA	California	San Benito County
+06071	CA	California	San Bernardino County
+06073	CA	California	San Diego County
+06075	CA	California	San Francisco County
+06077	CA	California	San Joaquin County
+06079	CA	California	San Luis Obispo County
+06081	CA	California	San Mateo County
+06083	CA	California	Santa Barbara County
+06085	CA	California	Santa Clara County
+06087	CA	California	Santa Cruz County
+06089	CA	California	Shasta County
+06091	CA	California	Sierra County
+06093	CA	California	Siskiyou County
+06095	CA	California	Solano County
+06097	CA	California	Sonoma County
+06099	CA	California	Stanislaus County
+06101	CA	California	Sutter County
+06103	CA	California	Tehama County
+06105	CA	California	Trinity County
+06107	CA	California	Tulare County
+06109	CA	California	Tuolumne County
+06111	CA	California	Ventura County
+06113	CA	California	Yolo County
+06115	CA	California	Yuba County
+08001	CO	Colorado	Adams County
+08003	CO	Colorado	Alamosa County
+08005	CO	Colorado	Arapahoe County
+08007	CO	Colorado	Archuleta County
+08009	CO	Colorado	Baca County
+08011	CO	Colorado	Bent County
+08013	CO	Colorado	Boulder County
+08014	CO	Colorado	Broomfield County
+08015	CO	Colorado	Chaffee County
+08017	CO	Colorado	Cheyenne County
+08019	CO	Colorado	Clear Creek County
+08021	CO	Colorado	Conejos County
+08023	CO	Colorado	Costilla County
+08025	CO	Colorado	Crowley County
+08027	CO	Colorado	Custer County
+08029	CO	Colorado	Delta County
+08031	CO	Colorado	Denver County
+08033	CO	Colorado	Dolores County
+08035	CO	Colorado	Douglas County
+08037	CO	Colorado	Eagle County
+08041	CO	Colorado	El Paso County
+08039	CO	Colorado	Elbert County
+08043	CO	Colorado	Fremont County
+08045	CO	Colorado	Garfield County
+08047	CO	Colorado	Gilpin County
+08049	CO	Colorado	Grand County
+08051	CO	Colorado	Gunnison County
+08053	CO	Colorado	Hinsdale County
+08055	CO	Colorado	Huerfano County
+08057	CO	Colorado	Jackson County
+08059	CO	Colorado	Jefferson County
+08061	CO	Colorado	Kiowa County
+08063	CO	Colorado	Kit Carson County
+08067	CO	Colorado	La Plata County
+08065	CO	Colorado	Lake County
+08069	CO	Colorado	Larimer County
+08071	CO	Colorado	Las Animas County
+08073	CO	Colorado	Lincoln County
+08075	CO	Colorado	Logan County
+08077	CO	Colorado	Mesa County
+08079	CO	Colorado	Mineral County
+08081	CO	Colorado	Moffat County
+08083	CO	Colorado	Montezuma County
+08085	CO	Colorado	Montrose County
+08087	CO	Colorado	Morgan County
+08089	CO	Colorado	Otero County
+08091	CO	Colorado	Ouray County
+08093	CO	Colorado	Park County
+08095	CO	Colorado	Phillips County
+08097	CO	Colorado	Pitkin County
+08099	CO	Colorado	Prowers County
+08101	CO	Colorado	Pueblo County
+08103	CO	Colorado	Rio Blanco County
+08105	CO	Colorado	Rio Grande County
+08107	CO	Colorado	Routt County
+08109	CO	Colorado	Saguache County
+08111	CO	Colorado	San Juan County
+08113	CO	Colorado	San Miguel County
+08115	CO	Colorado	Sedgwick County
+08117	CO	Colorado	Summit County
+08119	CO	Colorado	Teller County
+08121	CO	Colorado	Washington County
+08123	CO	Colorado	Weld County
+08125	CO	Colorado	Yuma County
+09001	CT	Connecticut	Fairfield County
+09003	CT	Connecticut	Hartford County
+09005	CT	Connecticut	Litchfield County
+09007	CT	Connecticut	Middlesex County
+09009	CT	Connecticut	New Haven County
+09011	CT	Connecticut	New London County
+09013	CT	Connecticut	Tolland County
+09015	CT	Connecticut	Windham County
+11001	DC	District of Columbia	District of Columbia
+10001	DE	Delaware	Kent County
+10003	DE	Delaware	New Castle County
+10005	DE	Delaware	Sussex County
+12001	FL	Florida	Alachua County
+12003	FL	Florida	Baker County
+12005	FL	Florida	Bay County
+12007	FL	Florida	Bradford County
+12009	FL	Florida	Brevard County
+12011	FL	Florida	Broward County
+12013	FL	Florida	Calhoun County
+12015	FL	Florida	Charlotte County
+12017	FL	Florida	Citrus County
+12019	FL	Florida	Clay County
+12021	FL	Florida	Collier County
+12023	FL	Florida	Columbia County
+12027	FL	Florida	DeSoto County
+12029	FL	Florida	Dixie County
+12031	FL	Florida	Duval County
+12033	FL	Florida	Escambia County
+12035	FL	Florida	Flagler County
+12037	FL	Florida	Franklin County
+12039	FL	Florida	Gadsden County
+12041	FL	Florida	Gilchrist County
+12043	FL	Florida	Glades County
+12045	FL	Florida	Gulf County
+12047	FL	Florida	Hamilton County
+12049	FL	Florida	Hardee County
+12051	FL	Florida	Hendry County
+12053	FL	Florida	Hernando County
+12055	FL	Florida	Highlands County
+12057	FL	Florida	Hillsborough County
+12059	FL	Florida	Holmes County
+12061	FL	Florida	Indian River County
+12063	FL	Florida	Jackson County
+12065	FL	Florida	Jefferson County
+12067	FL	Florida	Lafayette County
+12069	FL	Florida	Lake County
+12071	FL	Florida	Lee County
+12073	FL	Florida	Leon County
+12075	FL	Florida	Levy County
+12077	FL	Florida	Liberty County
+12079	FL	Florida	Madison County
+12081	FL	Florida	Manatee County
+12083	FL	Florida	Marion County
+12085	FL	Florida	Martin County
+12086	FL	Florida	Miami-Dade County
+12087	FL	Florida	Monroe County
+12089	FL	Florida	Nassau County
+12091	FL	Florida	Okaloosa County
+12093	FL	Florida	Okeechobee County
+12095	FL	Florida	Orange County
+12097	FL	Florida	Osceola County
+12099	FL	Florida	Palm Beach County
+12101	FL	Florida	Pasco County
+12103	FL	Florida	Pinellas County
+12105	FL	Florida	Polk County
+12107	FL	Florida	Putnam County
+12113	FL	Florida	Santa Rosa County
+12115	FL	Florida	Sarasota County
+12117	FL	Florida	Seminole County
+12109	FL	Florida	St. Johns County
+12111	FL	Florida	St. Lucie County
+12119	FL	Florida	Sumter County
+12121	FL	Florida	Suwannee County
+12123	FL	Florida	Taylor County
+12125	FL	Florida	Union County
+12127	FL	Florida	Volusia County
+12129	FL	Florida	Wakulla County
+12131	FL	Florida	Walton County
+12133	FL	Florida	Washington County
+13001	GA	Georgia	Appling County
+13003	GA	Georgia	Atkinson County
+13005	GA	Georgia	Bacon County
+13007	GA	Georgia	Baker County
+13009	GA	Georgia	Baldwin County
+13011	GA	Georgia	Banks County
+13013	GA	Georgia	Barrow County
+13015	GA	Georgia	Bartow County
+13017	GA	Georgia	Ben Hill County
+13019	GA	Georgia	Berrien County
+13021	GA	Georgia	Bibb County
+13023	GA	Georgia	Bleckley County
+13025	GA	Georgia	Brantley County
+13027	GA	Georgia	Brooks County
+13029	GA	Georgia	Bryan County
+13031	GA	Georgia	Bulloch County
+13033	GA	Georgia	Burke County
+13035	GA	Georgia	Butts County
+13037	GA	Georgia	Calhoun County
+13039	GA	Georgia	Camden County
+13043	GA	Georgia	Candler County
+13045	GA	Georgia	Carroll County
+13047	GA	Georgia	Catoosa County
+13049	GA	Georgia	Charlton County
+13051	GA	Georgia	Chatham County
+13053	GA	Georgia	Chattahoochee County
+13055	GA	Georgia	Chattooga County
+13057	GA	Georgia	Cherokee County
+13059	GA	Georgia	Clarke County
+13061	GA	Georgia	Clay County
+13063	GA	Georgia	Clayton County
+13065	GA	Georgia	Clinch County
+13067	GA	Georgia	Cobb County
+13069	GA	Georgia	Coffee County
+13071	GA	Georgia	Colquitt County
+13073	GA	Georgia	Columbia County
+13075	GA	Georgia	Cook County
+13077	GA	Georgia	Coweta County
+13079	GA	Georgia	Crawford County
+13081	GA	Georgia	Crisp County
+13083	GA	Georgia	Dade County
+13085	GA	Georgia	Dawson County
+13089	GA	Georgia	DeKalb County
+13087	GA	Georgia	Decatur County
+13091	GA	Georgia	Dodge County
+13093	GA	Georgia	Dooly County
+13095	GA	Georgia	Dougherty County
+13097	GA	Georgia	Douglas County
+13099	GA	Georgia	Early County
+13101	GA	Georgia	Echols County
+13103	GA	Georgia	Effingham County
+13105	GA	Georgia	Elbert County
+13107	GA	Georgia	Emanuel County
+13109	GA	Georgia	Evans County
+13111	GA	Georgia	Fannin County
+13113	GA	Georgia	Fayette County
+13115	GA	Georgia	Floyd County
+13117	GA	Georgia	Forsyth County
+13119	GA	Georgia	Franklin County
+13121	GA	Georgia	Fulton County
+13123	GA	Georgia	Gilmer County
+13125	GA	Georgia	Glascock County
+13127	GA	Georgia	Glynn County
+13129	GA	Georgia	Gordon County
+13131	GA	Georgia	Grady County
+13133	GA	Georgia	Greene County
+13135	GA	Georgia	Gwinnett County
+13137	GA	Georgia	Habersham County
+13139	GA	Georgia	Hall County
+13141	GA	Georgia	Hancock County
+13143	GA	Georgia	Haralson County
+13145	GA	Georgia	Harris County
+13147	GA	Georgia	Hart County
+13149	GA	Georgia	Heard County
+13151	GA	Georgia	Henry County
+13153	GA	Georgia	Houston County
+13155	GA	Georgia	Irwin County
+13157	GA	Georgia	Jackson County
+13159	GA	Georgia	Jasper County
+13161	GA	Georgia	Jeff Davis County
+13163	GA	Georgia	Jefferson County
+13165	GA	Georgia	Jenkins County
+13167	GA	Georgia	Johnson County
+13169	GA	Georgia	Jones County
+13171	GA	Georgia	Lamar County
+13173	GA	Georgia	Lanier County
+13175	GA	Georgia	Laurens County
+13177	GA	Georgia	Lee County
+13179	GA	Georgia	Liberty County
+13181	GA	Georgia	Lincoln County
+13183	GA	Georgia	Long County
+13185	GA	Georgia	Lowndes County
+13187	GA	Georgia	Lumpkin County
+13193	GA	Georgia	Macon County
+13195	GA	Georgia	Madison County
+13197	GA	Georgia	Marion County
+13189	GA	Georgia	McDuffie County
+13191	GA	Georgia	McIntosh County
+13199	GA	Georgia	Meriwether County
+13201	GA	Georgia	Miller County
+13205	GA	Georgia	Mitchell County
+13207	GA	Georgia	Monroe County
+13209	GA	Georgia	Montgomery County
+13211	GA	Georgia	Morgan County
+13213	GA	Georgia	Murray County
+13215	GA	Georgia	Muscogee County
+13217	GA	Georgia	Newton County
+13219	GA	Georgia	Oconee County
+13221	GA	Georgia	Oglethorpe County
+13223	GA	Georgia	Paulding County
+13225	GA	Georgia	Peach County
+13227	GA	Georgia	Pickens County
+13229	GA	Georgia	Pierce County
+13231	GA	Georgia	Pike County
+13233	GA	Georgia	Polk County
+13235	GA	Georgia	Pulaski County
+13237	GA	Georgia	Putnam County
+13239	GA	Georgia	Quitman County
+13241	GA	Georgia	Rabun County
+13243	GA	Georgia	Randolph County
+13245	GA	Georgia	Richmond County
+13247	GA	Georgia	Rockdale County
+13249	GA	Georgia	Schley County
+13251	GA	Georgia	Screven County
+13253	GA	Georgia	Seminole County
+13255	GA	Georgia	Spalding County
+13257	GA	Georgia	Stephens County
+13259	GA	Georgia	Stewart County
+13261	GA	Georgia	Sumter County
+13263	GA	Georgia	Talbot County
+13265	GA	Georgia	Taliaferro County
+13267	GA	Georgia	Tattnall County
+13269	GA	Georgia	Taylor County
+13271	GA	Georgia	Telfair County
+13273	GA	Georgia	Terrell County
+13275	GA	Georgia	Thomas County
+13277	GA	Georgia	Tift County
+13279	GA	Georgia	Toombs County
+13281	GA	Georgia	Towns County
+13283	GA	Georgia	Treutlen County
+13285	GA	Georgia	Troup County
+13287	GA	Georgia	Turner County
+13289	GA	Georgia	Twiggs County
+13291	GA	Georgia	Union County
+13293	GA	Georgia	Upson County
+13295	GA	Georgia	Walker County
+13297	GA	Georgia	Walton County
+13299	GA	Georgia	Ware County
+13301	GA	Georgia	Warren County
+13303	GA	Georgia	Washington County
+13305	GA	Georgia	Wayne County
+13307	GA	Georgia	Webster County
+13309	GA	Georgia	Wheeler County
+13311	GA	Georgia	White County
+13313	GA	Georgia	Whitfield County
+13315	GA	Georgia	Wilcox County
+13317	GA	Georgia	Wilkes County
+13319	GA	Georgia	Wilkinson County
+13321	GA	Georgia	Worth County
+15001	HI	Hawaii	Hawaii County
+15003	HI	Hawaii	Honolulu County
+15005	HI	Hawaii	Kalawao County
+15007	HI	Hawaii	Kauai County
+15009	HI	Hawaii	Maui County
+19001	IA	Iowa	Adair County
+19003	IA	Iowa	Adams County
+19005	IA	Iowa	Allamakee County
+19007	IA	Iowa	Appanoose County
+19009	IA	Iowa	Audubon County
+19011	IA	Iowa	Benton County
+19013	IA	Iowa	Black Hawk County
+19015	IA	Iowa	Boone County
+19017	IA	Iowa	Bremer County
+19019	IA	Iowa	Buchanan County
+19021	IA	Iowa	Buena Vista County
+19023	IA	Iowa	Butler County
+19025	IA	Iowa	Calhoun County
+19027	IA	Iowa	Carroll County
+19029	IA	Iowa	Cass County
+19031	IA	Iowa	Cedar County
+19033	IA	Iowa	Cerro Gordo County
+19035	IA	Iowa	Cherokee County
+19037	IA	Iowa	Chickasaw County
+19039	IA	Iowa	Clarke County
+19041	IA	Iowa	Clay County
+19043	IA	Iowa	Clayton County
+19045	IA	Iowa	Clinton County
+19047	IA	Iowa	Crawford County
+19049	IA	Iowa	Dallas County
+19051	IA	Iowa	Davis County
+19053	IA	Iowa	Decatur County
+19055	IA	Iowa	Delaware County
+19057	IA	Iowa	Des Moines County
+19059	IA	Iowa	Dickinson County
+19061	IA	Iowa	Dubuque County
+19063	IA	Iowa	Emmet County
+19065	IA	Iowa	Fayette County
+19067	IA	Iowa	Floyd County
+19069	IA	Iowa	Franklin County
+19071	IA	Iowa	Fremont County
+19073	IA	Iowa	Greene County
+19075	IA	Iowa	Grundy County
+19077	IA	Iowa	Guthrie County
+19079	IA	Iowa	Hamilton County
+19081	IA	Iowa	Hancock County
+19083	IA	Iowa	Hardin County
+19085	IA	Iowa	Harrison County
+19087	IA	Iowa	Henry County
+19089	IA	Iowa	Howard County
+19091	IA	Iowa	Humboldt County
+19093	IA	Iowa	Ida County
+19095	IA	Iowa	Iowa County
+19097	IA	Iowa	Jackson County
+19099	IA	Iowa	Jasper County
+19101	IA	Iowa	Jefferson County
+19103	IA	Iowa	Johnson County
+19105	IA	Iowa	Jones County
+19107	IA	Iowa	Keokuk County
+19109	IA	Iowa	Kossuth County
+19111	IA	Iowa	Lee County
+19113	IA	Iowa	Linn County
+19115	IA	Iowa	Louisa County
+19117	IA	Iowa	Lucas County
+19119	IA	Iowa	Lyon County
+19121	IA	Iowa	Madison County
+19123	IA	Iowa	Mahaska County
+19125	IA	Iowa	Marion County
+19127	IA	Iowa	Marshall County
+19129	IA	Iowa	Mills County
+19131	IA	Iowa	Mitchell County
+19133	IA	Iowa	Monona County
+19135	IA	Iowa	Monroe County
+19137	IA	Iowa	Montgomery County
+19139	IA	Iowa	Muscatine County
+19141	IA	Iowa	O'Brien County
+19143	IA	Iowa	Osceola County
+19145	IA	Iowa	Page County
+19147	IA	Iowa	Palo Alto County
+19149	IA	Iowa	Plymouth County
+19151	IA	Iowa	Pocahontas County
+19153	IA	Iowa	Polk County
+19155	IA	Iowa	Pottawattamie County
+19157	IA	Iowa	Poweshiek County
+19159	IA	Iowa	Ringgold County
+19161	IA	Iowa	Sac County
+19163	IA	Iowa	Scott County
+19165	IA	Iowa	Shelby County
+19167	IA	Iowa	Sioux County
+19169	IA	Iowa	Story County
+19171	IA	Iowa	Tama County
+19173	IA	Iowa	Taylor County
+19175	IA	Iowa	Union County
+19177	IA	Iowa	Van Buren County
+19179	IA	Iowa	Wapello County
+19181	IA	Iowa	Warren County
+19183	IA	Iowa	Washington County
+19185	IA	Iowa	Wayne County
+19187	IA	Iowa	Webster County
+19189	IA	Iowa	Winnebago County
+19191	IA	Iowa	Winneshiek County
+19193	IA	Iowa	Woodbury County
+19195	IA	Iowa	Worth County
+19197	IA	Iowa	Wright County
+16001	ID	Idaho	Ada County
+16003	ID	Idaho	Adams County
+16005	ID	Idaho	Bannock County
+16007	ID	Idaho	Bear Lake County
+16009	ID	Idaho	Benewah County
+16011	ID	Idaho	Bingham County
+16013	ID	Idaho	Blaine County
+16015	ID	Idaho	Boise County
+16017	ID	Idaho	Bonner County
+16019	ID	Idaho	Bonneville County
+16021	ID	Idaho	Boundary County
+16023	ID	Idaho	Butte County
+16025	ID	Idaho	Camas County
+16027	ID	Idaho	Canyon County
+16029	ID	Idaho	Caribou County
+16031	ID	Idaho	Cassia County
+16033	ID	Idaho	Clark County
+16035	ID	Idaho	Clearwater County
+16037	ID	Idaho	Custer County
+16039	ID	Idaho	Elmore County
+16041	ID	Idaho	Franklin County
+16043	ID	Idaho	Fremont County
+16045	ID	Idaho	Gem County
+16047	ID	Idaho	Gooding County
+16049	ID	Idaho	Idaho County
+16051	ID	Idaho	Jefferson County
+16053	ID	Idaho	Jerome County
+16055	ID	Idaho	Kootenai County
+16057	ID	Idaho	Latah County
+16059	ID	Idaho	Lemhi County
+16061	ID	Idaho	Lewis County
+16063	ID	Idaho	Lincoln County
+16065	ID	Idaho	Madison County
+16067	ID	Idaho	Minidoka County
+16069	ID	Idaho	Nez Perce County
+16071	ID	Idaho	Oneida County
+16073	ID	Idaho	Owyhee County
+16075	ID	Idaho	Payette County
+16077	ID	Idaho	Power County
+16079	ID	Idaho	Shoshone County
+16081	ID	Idaho	Teton County
+16083	ID	Idaho	Twin Falls County
+16085	ID	Idaho	Valley County
+16087	ID	Idaho	Washington County
+17001	IL	Illinois	Adams County
+17003	IL	Illinois	Alexander County
+17005	IL	Illinois	Bond County
+17007	IL	Illinois	Boone County
+17009	IL	Illinois	Brown County
+17011	IL	Illinois	Bureau County
+17013	IL	Illinois	Calhoun County
+17015	IL	Illinois	Carroll County
+17017	IL	Illinois	Cass County
+17019	IL	Illinois	Champaign County
+17021	IL	Illinois	Christian County
+17023	IL	Illinois	Clark County
+17025	IL	Illinois	Clay County
+17027	IL	Illinois	Clinton County
+17029	IL	Illinois	Coles County
+17031	IL	Illinois	Cook County
+17033	IL	Illinois	Crawford County
+17035	IL	Illinois	Cumberland County
+17039	IL	Illinois	De Witt County
+17037	IL	Illinois	DeKalb County
+17041	IL	Illinois	Douglas County
+17043	IL	Illinois	DuPage County
+17045	IL	Illinois	Edgar County
+17047	IL	Illinois	Edwards County
+17049	IL	Illinois	Effingham County
+17051	IL	Illinois	Fayette County
+17053	IL	Illinois	Ford County
+17055	IL	Illinois	Franklin County
+17057	IL	Illinois	Fulton County
+17059	IL	Illinois	Gallatin County
+17061	IL	Illinois	Greene County
+17063	IL	Illinois	Grundy County
+17065	IL	Illinois	Hamilton County
+17067	IL	Illinois	Hancock County
+17069	IL	Illinois	Hardin County
+17071	IL	Illinois	Henderson County
+17073	IL	Illinois	Henry County
+17075	IL	Illinois	Iroquois County
+17077	IL	Illinois	Jackson County
+17079	IL	Illinois	Jasper County
+17081	IL	Illinois	Jefferson County
+17083	IL	Illinois	Jersey County
+17085	IL	Illinois	Jo Daviess County
+17087	IL	Illinois	Johnson County
+17089	IL	Illinois	Kane County
+17091	IL	Illinois	Kankakee County
+17093	IL	Illinois	Kendall County
+17095	IL	Illinois	Knox County
+17099	IL	Illinois	LaSalle County
+17097	IL	Illinois	Lake County
+17101	IL	Illinois	Lawrence County
+17103	IL	Illinois	Lee County
+17105	IL	Illinois	Livingston County
+17107	IL	Illinois	Logan County
+17115	IL	Illinois	Macon County
+17117	IL	Illinois	Macoupin County
+17119	IL	Illinois	Madison County
+17121	IL	Illinois	Marion County
+17123	IL	Illinois	Marshall County
+17125	IL	Illinois	Mason County
+17127	IL	Illinois	Massac County
+17109	IL	Illinois	McDonough County
+17111	IL	Illinois	McHenry County
+17113	IL	Illinois	McLean County
+17129	IL	Illinois	Menard County
+17131	IL	Illinois	Mercer County
+17133	IL	Illinois	Monroe County
+17135	IL	Illinois	Montgomery County
+17137	IL	Illinois	Morgan County
+17139	IL	Illinois	Moultrie County
+17141	IL	Illinois	Ogle County
+17143	IL	Illinois	Peoria County
+17145	IL	Illinois	Perry County
+17147	IL	Illinois	Piatt County
+17149	IL	Illinois	Pike County
+17151	IL	Illinois	Pope County
+17153	IL	Illinois	Pulaski County
+17155	IL	Illinois	Putnam County
+17157	IL	Illinois	Randolph County
+17159	IL	Illinois	Richland County
+17161	IL	Illinois	Rock Island County
+17165	IL	Illinois	Saline County
+17167	IL	Illinois	Sangamon County
+17169	IL	Illinois	Schuyler County
+17171	IL	Illinois	Scott County
+17173	IL	Illinois	Shelby County
+17163	IL	Illinois	St. Clair County
+17175	IL	Illinois	Stark County
+17177	IL	Illinois	Stephenson County
+17179	IL	Illinois	Tazewell County
+17181	IL	Illinois	Union County
+17183	IL	Illinois	Vermilion County
+17185	IL	Illinois	Wabash County
+17187	IL	Illinois	Warren County
+17189	IL	Illinois	Washington County
+17191	IL	Illinois	Wayne County
+17193	IL	Illinois	White County
+17195	IL	Illinois	Whiteside County
+17197	IL	Illinois	Will County
+17199	IL	Illinois	Williamson County
+17201	IL	Illinois	Winnebago County
+17203	IL	Illinois	Woodford County
+18001	IN	Indiana	Adams County
+18003	IN	Indiana	Allen County
+18005	IN	Indiana	Bartholomew County
+18007	IN	Indiana	Benton County
+18009	IN	Indiana	Blackford County
+18011	IN	Indiana	Boone County
+18013	IN	Indiana	Brown County
+18015	IN	Indiana	Carroll County
+18017	IN	Indiana	Cass County
+18019	IN	Indiana	Clark County
+18021	IN	Indiana	Clay County
+18023	IN	Indiana	Clinton County
+18025	IN	Indiana	Crawford County
+18027	IN	Indiana	Daviess County
+18033	IN	Indiana	DeKalb County
+18029	IN	Indiana	Dearborn County
+18031	IN	Indiana	Decatur County
+18035	IN	Indiana	Delaware County
+18037	IN	Indiana	Dubois County
+18039	IN	Indiana	Elkhart County
+18041	IN	Indiana	Fayette County
+18043	IN	Indiana	Floyd County
+18045	IN	Indiana	Fountain County
+18047	IN	Indiana	Franklin County
+18049	IN	Indiana	Fulton County
+18051	IN	Indiana	Gibson County
+18053	IN	Indiana	Grant County
+18055	IN	Indiana	Greene County
+18057	IN	Indiana	Hamilton County
+18059	IN	Indiana	Hancock County
+18061	IN	Indiana	Harrison County
+18063	IN	Indiana	Hendricks County
+18065	IN	Indiana	Henry County
+18067	IN	Indiana	Howard County
+18069	IN	Indiana	Huntington County
+18071	IN	Indiana	Jackson County
+18073	IN	Indiana	Jasper County
+18075	IN	Indiana	Jay County
+18077	IN	Indiana	Jefferson County
+18079	IN	Indiana	Jennings County
+18081	IN	Indiana	Johnson County
+18083	IN	Indiana	Knox County
+18085	IN	Indiana	Kosciusko County
+18087	IN	Indiana	LaGrange County
+18091	IN	Indiana	LaPorte County
+18089	IN	Indiana	Lake County
+18093	IN	Indiana	Lawrence County
+18095	IN	Indiana	Madison County
+18097	IN	Indiana	Marion County
+18099	IN	Indiana	Marshall County
+18101	IN	Indiana	Martin County
+18103	IN	Indiana	Miami County
+18105	IN	Indiana	Monroe County
+18107	IN	Indiana	Montgomery County
+18109	IN	Indiana	Morgan County
+18111	IN	Indiana	Newton County
+18113	IN	Indiana	Noble County
+18115	IN	Indiana	Ohio County
+18117	IN	Indiana	Orange County
+18119	IN	Indiana	Owen County
+18121	IN	Indiana	Parke County
+18123	IN	Indiana	Perry County
+18125	IN	Indiana	Pike County
+18127	IN	Indiana	Porter County
+18129	IN	Indiana	Posey County
+18131	IN	Indiana	Pulaski County
+18133	IN	Indiana	Putnam County
+18135	IN	Indiana	Randolph County
+18137	IN	Indiana	Ripley County
+18139	IN	Indiana	Rush County
+18143	IN	Indiana	Scott County
+18145	IN	Indiana	Shelby County
+18147	IN	Indiana	Spencer County
+18141	IN	Indiana	St. Joseph County
+18149	IN	Indiana	Starke County
+18151	IN	Indiana	Steuben County
+18153	IN	Indiana	Sullivan County
+18155	IN	Indiana	Switzerland County
+18157	IN	Indiana	Tippecanoe County
+18159	IN	Indiana	Tipton County
+18161	IN	Indiana	Union County
+18163	IN	Indiana	Vanderburgh County
+18165	IN	Indiana	Vermillion County
+18167	IN	Indiana	Vigo County
+18169	IN	Indiana	Wabash County
+18171	IN	Indiana	Warren County
+18173	IN	Indiana	Warrick County
+18175	IN	Indiana	Washington County
+18177	IN	Indiana	Wayne County
+18179	IN	Indiana	Wells County
+18181	IN	Indiana	White County
+18183	IN	Indiana	Whitley County
+20001	KS	Kansas	Allen County
+20003	KS	Kansas	Anderson County
+20005	KS	Kansas	Atchison County
+20007	KS	Kansas	Barber County
+20009	KS	Kansas	Barton County
+20011	KS	Kansas	Bourbon County
+20013	KS	Kansas	Brown County
+20015	KS	Kansas	Butler County
+20017	KS	Kansas	Chase County
+20019	KS	Kansas	Chautauqua County
+20021	KS	Kansas	Cherokee County
+20023	KS	Kansas	Cheyenne County
+20025	KS	Kansas	Clark County
+20027	KS	Kansas	Clay County
+20029	KS	Kansas	Cloud County
+20031	KS	Kansas	Coffey County
+20033	KS	Kansas	Comanche County
+20035	KS	Kansas	Cowley County
+20037	KS	Kansas	Crawford County
+20039	KS	Kansas	Decatur County
+20041	KS	Kansas	Dickinson County
+20043	KS	Kansas	Doniphan County
+20045	KS	Kansas	Douglas County
+20047	KS	Kansas	Edwards County
+20049	KS	Kansas	Elk County
+20051	KS	Kansas	Ellis County
+20053	KS	Kansas	Ellsworth County
+20055	KS	Kansas	Finney County
+20057	KS	Kansas	Ford County
+20059	KS	Kansas	Franklin County
+20061	KS	Kansas	Geary County
+20063	KS	Kansas	Gove County
+20065	KS	Kansas	Graham County
+20067	KS	Kansas	Grant County
+20069	KS	Kansas	Gray County
+20071	KS	Kansas	Greeley County
+20073	KS	Kansas	Greenwood County
+20075	KS	Kansas	Hamilton County
+20077	KS	Kansas	Harper County
+20079	KS	Kansas	Harvey County
+20081	KS	Kansas	Haskell County
+20083	KS	Kansas	Hodgeman County
+20085	KS	Kansas	Jackson County
+20087	KS	Kansas	Jefferson County
+20089	KS	Kansas	Jewell County
+20091	KS	Kansas	Johnson County
+20093	KS	Kansas	Kearny County
+20095	KS	Kansas	Kingman County
+20097	KS	Kansas	Kiowa County
+20099	KS	Kansas	Labette County
+20101	KS	Kansas	Lane County
+20103	KS	Kansas	Leavenworth County
+20105	KS	Kansas	Lincoln County
+20107	KS	Kansas	Linn County
+20109	KS	Kansas	Logan County
+20111	KS	Kansas	Lyon County
+20115	KS	Kansas	Marion County
+20117	KS	Kansas	Marshall County
+20113	KS	Kansas	McPherson County
+20119	KS	Kansas	Meade County
+20121	KS	Kansas	Miami County
+20123	KS	Kansas	Mitchell County
+20125	KS	Kansas	Montgomery County
+20127	KS	Kansas	Morris County
+20129	KS	Kansas	Morton County
+20131	KS	Kansas	Nemaha County
+20133	KS	Kansas	Neosho County
+20135	KS	Kansas	Ness County
+20137	KS	Kansas	Norton County
+20139	KS	Kansas	Osage County
+20141	KS	Kansas	Osborne County
+20143	KS	Kansas	Ottawa County
+20145	KS	Kansas	Pawnee County
+20147	KS	Kansas	Phillips County
+20149	KS	Kansas	Pottawatomie County
+20151	KS	Kansas	Pratt County
+20153	KS	Kansas	Rawlins County
+20155	KS	Kansas	Reno County
+20157	KS	Kansas	Republic County
+20159	KS	Kansas	Rice County
+20161	KS	Kansas	Riley County
+20163	KS	Kansas	Rooks County
+20165	KS	Kansas	Rush County
+20167	KS	Kansas	Russell County
+20169	KS	Kansas	Saline County
+20171	KS	Kansas	Scott County
+20173	KS	Kansas	Sedgwick County
+20175	KS	Kansas	Seward County
+20177	KS	Kansas	Shawnee County
+20179	KS	Kansas	Sheridan County
+20181	KS	Kansas	Sherman County
+20183	KS	Kansas	Smith County
+20185	KS	Kansas	Stafford County
+20187	KS	Kansas	Stanton County
+20189	KS	Kansas	Stevens County
+20191	KS	Kansas	Sumner County
+20193	KS	Kansas	Thomas County
+20195	KS	Kansas	Trego County
+20197	KS	Kansas	Wabaunsee County
+20199	KS	Kansas	Wallace County
+20201	KS	Kansas	Washington County
+20203	KS	Kansas	Wichita County
+20205	KS	Kansas	Wilson County
+20207	KS	Kansas	Woodson County
+20209	KS	Kansas	Wyandotte County
+21001	KY	Kentucky	Adair County
+21003	KY	Kentucky	Allen County
+21005	KY	Kentucky	Anderson County
+21007	KY	Kentucky	Ballard County
+21009	KY	Kentucky	Barren County
+21011	KY	Kentucky	Bath County
+21013	KY	Kentucky	Bell County
+21015	KY	Kentucky	Boone County
+21017	KY	Kentucky	Bourbon County
+21019	KY	Kentucky	Boyd County
+21021	KY	Kentucky	Boyle County
+21023	KY	Kentucky	Bracken County
+21025	KY	Kentucky	Breathitt County
+21027	KY	Kentucky	Breckinridge County
+21029	KY	Kentucky	Bullitt County
+21031	KY	Kentucky	Butler County
+21033	KY	Kentucky	Caldwell County
+21035	KY	Kentucky	Calloway County
+21037	KY	Kentucky	Campbell County
+21039	KY	Kentucky	Carlisle County
+21041	KY	Kentucky	Carroll County
+21043	KY	Kentucky	Carter County
+21045	KY	Kentucky	Casey County
+21047	KY	Kentucky	Christian County
+21049	KY	Kentucky	Clark County
+21051	KY	Kentucky	Clay County
+21053	KY	Kentucky	Clinton County
+21055	KY	Kentucky	Crittenden County
+21057	KY	Kentucky	Cumberland County
+21059	KY	Kentucky	Daviess County
+21061	KY	Kentucky	Edmonson County
+21063	KY	Kentucky	Elliott County
+21065	KY	Kentucky	Estill County
+21067	KY	Kentucky	Fayette County
+21069	KY	Kentucky	Fleming County
+21071	KY	Kentucky	Floyd County
+21073	KY	Kentucky	Franklin County
+21075	KY	Kentucky	Fulton County
+21077	KY	Kentucky	Gallatin County
+21079	KY	Kentucky	Garrard County
+21081	KY	Kentucky	Grant County
+21083	KY	Kentucky	Graves County
+21085	KY	Kentucky	Grayson County
+21087	KY	Kentucky	Green County
+21089	KY	Kentucky	Greenup County
+21091	KY	Kentucky	Hancock County
+21093	KY	Kentucky	Hardin County
+21095	KY	Kentucky	Harlan County
+21097	KY	Kentucky	Harrison County
+21099	KY	Kentucky	Hart County
+21101	KY	Kentucky	Henderson County
+21103	KY	Kentucky	Henry County
+21105	KY	Kentucky	Hickman County
+21107	KY	Kentucky	Hopkins County
+21109	KY	Kentucky	Jackson County
+21111	KY	Kentucky	Jefferson County
+21113	KY	Kentucky	Jessamine County
+21115	KY	Kentucky	Johnson County
+21117	KY	Kentucky	Kenton County
+21119	KY	Kentucky	Knott County
+21121	KY	Kentucky	Knox County
+21123	KY	Kentucky	Larue County
+21125	KY	Kentucky	Laurel County
+21127	KY	Kentucky	Lawrence County
+21129	KY	Kentucky	Lee County
+21131	KY	Kentucky	Leslie County
+21133	KY	Kentucky	Letcher County
+21135	KY	Kentucky	Lewis County
+21137	KY	Kentucky	Lincoln County
+21139	KY	Kentucky	Livingston County
+21141	KY	Kentucky	Logan County
+21143	KY	Kentucky	Lyon County
+21151	KY	Kentucky	Madison County
+21153	KY	Kentucky	Magoffin County
+21155	KY	Kentucky	Marion County
+21157	KY	Kentucky	Marshall County
+21159	KY	Kentucky	Martin County
+21161	KY	Kentucky	Mason County
+21145	KY	Kentucky	McCracken County
+21147	KY	Kentucky	McCreary County
+21149	KY	Kentucky	McLean County
+21163	KY	Kentucky	Meade County
+21165	KY	Kentucky	Menifee County
+21167	KY	Kentucky	Mercer County
+21169	KY	Kentucky	Metcalfe County
+21171	KY	Kentucky	Monroe County
+21173	KY	Kentucky	Montgomery County
+21175	KY	Kentucky	Morgan County
+21177	KY	Kentucky	Muhlenberg County
+21179	KY	Kentucky	Nelson County
+21181	KY	Kentucky	Nicholas County
+21183	KY	Kentucky	Ohio County
+21185	KY	Kentucky	Oldham County
+21187	KY	Kentucky	Owen County
+21189	KY	Kentucky	Owsley County
+21191	KY	Kentucky	Pendleton County
+21193	KY	Kentucky	Perry County
+21195	KY	Kentucky	Pike County
+21197	KY	Kentucky	Powell County
+21199	KY	Kentucky	Pulaski County
+21201	KY	Kentucky	Robertson County
+21203	KY	Kentucky	Rockcastle County
+21205	KY	Kentucky	Rowan County
+21207	KY	Kentucky	Russell County
+21209	KY	Kentucky	Scott County
+21211	KY	Kentucky	Shelby County
+21213	KY	Kentucky	Simpson County
+21215	KY	Kentucky	Spencer County
+21217	KY	Kentucky	Taylor County
+21219	KY	Kentucky	Todd County
+21221	KY	Kentucky	Trigg County
+21223	KY	Kentucky	Trimble County
+21225	KY	Kentucky	Union County
+21227	KY	Kentucky	Warren County
+21229	KY	Kentucky	Washington County
+21231	KY	Kentucky	Wayne County
+21233	KY	Kentucky	Webster County
+21235	KY	Kentucky	Whitley County
+21237	KY	Kentucky	Wolfe County
+21239	KY	Kentucky	Woodford County
+22001	LA	Louisiana	Acadia Parish
+22003	LA	Louisiana	Allen Parish
+22005	LA	Louisiana	Ascension Parish
+22007	LA	Louisiana	Assumption Parish
+22009	LA	Louisiana	Avoyelles Parish
+22011	LA	Louisiana	Beauregard Parish
+22013	LA	Louisiana	Bienville Parish
+22015	LA	Louisiana	Bossier Parish
+22017	LA	Louisiana	Caddo Parish
+22019	LA	Louisiana	Calcasieu Parish
+22021	LA	Louisiana	Caldwell Parish
+22023	LA	Louisiana	Cameron Parish
+22025	LA	Louisiana	Catahoula Parish
+22027	LA	Louisiana	Claiborne Parish
+22029	LA	Louisiana	Concordia Parish
+22031	LA	Louisiana	De Soto Parish
+22033	LA	Louisiana	East Baton Rouge Parish
+22035	LA	Louisiana	East Carroll Parish
+22037	LA	Louisiana	East Feliciana Parish
+22039	LA	Louisiana	Evangeline Parish
+22041	LA	Louisiana	Franklin Parish
+22043	LA	Louisiana	Grant Parish
+22045	LA	Louisiana	Iberia Parish
+22047	LA	Louisiana	Iberville Parish
+22049	LA	Louisiana	Jackson Parish
+22053	LA	Louisiana	Jefferson Davis Parish
+22051	LA	Louisiana	Jefferson Parish
+22059	LA	Louisiana	LaSalle Parish
+22055	LA	Louisiana	Lafayette Parish
+22057	LA	Louisiana	Lafourche Parish
+22061	LA	Louisiana	Lincoln Parish
+22063	LA	Louisiana	Livingston Parish
+22065	LA	Louisiana	Madison Parish
+22067	LA	Louisiana	Morehouse Parish
+22069	LA	Louisiana	Natchitoches Parish
+22071	LA	Louisiana	Orleans Parish
+22073	LA	Louisiana	Ouachita Parish
+22075	LA	Louisiana	Plaquemines Parish
+22077	LA	Louisiana	Pointe Coupee Parish
+22079	LA	Louisiana	Rapides Parish
+22081	LA	Louisiana	Red River Parish
+22083	LA	Louisiana	Richland Parish
+22085	LA	Louisiana	Sabine Parish
+22087	LA	Louisiana	St. Bernard Parish
+22089	LA	Louisiana	St. Charles Parish
+22091	LA	Louisiana	St. Helena Parish
+22093	LA	Louisiana	St. James Parish
+22095	LA	Louisiana	St. John the Baptist Parish
+22097	LA	Louisiana	St. Landry Parish
+22099	LA	Louisiana	St. Martin Parish
+22101	LA	Louisiana	St. Mary Parish
+22103	LA	Louisiana	St. Tammany Parish
+22105	LA	Louisiana	Tangipahoa Parish
+22107	LA	Louisiana	Tensas Parish
+22109	LA	Louisiana	Terrebonne Parish
+22111	LA	Louisiana	Union Parish
+22113	LA	Louisiana	Vermilion Parish
+22115	LA	Louisiana	Vernon Parish
+22117	LA	Louisiana	Washington Parish
+22119	LA	Louisiana	Webster Parish
+22121	LA	Louisiana	West Baton Rouge Parish
+22123	LA	Louisiana	West Carroll Parish
+22125	LA	Louisiana	West Feliciana Parish
+22127	LA	Louisiana	Winn Parish
+25001	MA	Massachusetts	Barnstable County
+25003	MA	Massachusetts	Berkshire County
+25005	MA	Massachusetts	Bristol County
+25007	MA	Massachusetts	Dukes County
+25009	MA	Massachusetts	Essex County
+25011	MA	Massachusetts	Franklin County
+25013	MA	Massachusetts	Hampden County
+25015	MA	Massachusetts	Hampshire County
+25017	MA	Massachusetts	Middlesex County
+25019	MA	Massachusetts	Nantucket County
+25021	MA	Massachusetts	Norfolk County
+25023	MA	Massachusetts	Plymouth County
+25025	MA	Massachusetts	Suffolk County
+25027	MA	Massachusetts	Worcester County
+24001	MD	Maryland	Allegany County
+24003	MD	Maryland	Anne Arundel County
+24005	MD	Maryland	Baltimore County
+24510	MD	Maryland	Baltimore city
+24009	MD	Maryland	Calvert County
+24011	MD	Maryland	Caroline County
+24013	MD	Maryland	Carroll County
+24015	MD	Maryland	Cecil County
+24017	MD	Maryland	Charles County
+24019	MD	Maryland	Dorchester County
+24021	MD	Maryland	Frederick County
+24023	MD	Maryland	Garrett County
+24025	MD	Maryland	Harford County
+24027	MD	Maryland	Howard County
+24029	MD	Maryland	Kent County
+24031	MD	Maryland	Montgomery County
+24033	MD	Maryland	Prince George's County
+24035	MD	Maryland	Queen Anne's County
+24039	MD	Maryland	Somerset County
+24037	MD	Maryland	St. Mary's County
+24041	MD	Maryland	Talbot County
+24043	MD	Maryland	Washington County
+24045	MD	Maryland	Wicomico County
+24047	MD	Maryland	Worcester County
+23001	ME	Maine	Androscoggin County
+23003	ME	Maine	Aroostook County
+23005	ME	Maine	Cumberland County
+23007	ME	Maine	Franklin County
+23009	ME	Maine	Hancock County
+23011	ME	Maine	Kennebec County
+23013	ME	Maine	Knox County
+23015	ME	Maine	Lincoln County
+23017	ME	Maine	Oxford County
+23019	ME	Maine	Penobscot County
+23021	ME	Maine	Piscataquis County
+23023	ME	Maine	Sagadahoc County
+23025	ME	Maine	Somerset County
+23027	ME	Maine	Waldo County
+23029	ME	Maine	Washington County
+23031	ME	Maine	York County
+26001	MI	Michigan	Alcona County
+26003	MI	Michigan	Alger County
+26005	MI	Michigan	Allegan County
+26007	MI	Michigan	Alpena County
+26009	MI	Michigan	Antrim County
+26011	MI	Michigan	Arenac County
+26013	MI	Michigan	Baraga County
+26015	MI	Michigan	Barry County
+26017	MI	Michigan	Bay County
+26019	MI	Michigan	Benzie County
+26021	MI	Michigan	Berrien County
+26023	MI	Michigan	Branch County
+26025	MI	Michigan	Calhoun County
+26027	MI	Michigan	Cass County
+26029	MI	Michigan	Charlevoix County
+26031	MI	Michigan	Cheboygan County
+26033	MI	Michigan	Chippewa County
+26035	MI	Michigan	Clare County
+26037	MI	Michigan	Clinton County
+26039	MI	Michigan	Crawford County
+26041	MI	Michigan	Delta County
+26043	MI	Michigan	Dickinson County
+26045	MI	Michigan	Eaton County
+26047	MI	Michigan	Emmet County
+26049	MI	Michigan	Genesee County
+26051	MI	Michigan	Gladwin County
+26053	MI	Michigan	Gogebic County
+26055	MI	Michigan	Grand Traverse County
+26057	MI	Michigan	Gratiot County
+26059	MI	Michigan	Hillsdale County
+26061	MI	Michigan	Houghton County
+26063	MI	Michigan	Huron County
+26065	MI	Michigan	Ingham County
+26067	MI	Michigan	Ionia County
+26069	MI	Michigan	Iosco County
+26071	MI	Michigan	Iron County
+26073	MI	Michigan	Isabella County
+26075	MI	Michigan	Jackson County
+26077	MI	Michigan	Kalamazoo County
+26079	MI	Michigan	Kalkaska County
+26081	MI	Michigan	Kent County
+26083	MI	Michigan	Keweenaw County
+26085	MI	Michigan	Lake County
+26087	MI	Michigan	Lapeer County
+26089	MI	Michigan	Leelanau County
+26091	MI	Michigan	Lenawee County
+26093	MI	Michigan	Livingston County
+26095	MI	Michigan	Luce County
+26097	MI	Michigan	Mackinac County
+26099	MI	Michigan	Macomb County
+26101	MI	Michigan	Manistee County
+26103	MI	Michigan	Marquette County
+26105	MI	Michigan	Mason County
+26107	MI	Michigan	Mecosta County
+26109	MI	Michigan	Menominee County
+26111	MI	Michigan	Midland County
+26113	MI	Michigan	Missaukee County
+26115	MI	Michigan	Monroe County
+26117	MI	Michigan	Montcalm County
+26119	MI	Michigan	Montmorency County
+26121	MI	Michigan	Muskegon County
+26123	MI	Michigan	Newaygo County
+26125	MI	Michigan	Oakland County
+26127	MI	Michigan	Oceana County
+26129	MI	Michigan	Ogemaw County
+26131	MI	Michigan	Ontonagon County
+26133	MI	Michigan	Osceola County
+26135	MI	Michigan	Oscoda County
+26137	MI	Michigan	Otsego County
+26139	MI	Michigan	Ottawa County
+26141	MI	Michigan	Presque Isle County
+26143	MI	Michigan	Roscommon County
+26145	MI	Michigan	Saginaw County
+26151	MI	Michigan	Sanilac County
+26153	MI	Michigan	Schoolcraft County
+26155	MI	Michigan	Shiawassee County
+26147	MI	Michigan	St. Clair County
+26149	MI	Michigan	St. Joseph County
+26157	MI	Michigan	Tuscola County
+26159	MI	Michigan	Van Buren County
+26161	MI	Michigan	Washtenaw County
+26163	MI	Michigan	Wayne County
+26165	MI	Michigan	Wexford County
+27001	MN	Minnesota	Aitkin County
+27003	MN	Minnesota	Anoka County
+27005	MN	Minnesota	Becker County
+27007	MN	Minnesota	Beltrami County
+27009	MN	Minnesota	Benton County
+27011	MN	Minnesota	Big Stone County
+27013	MN	Minnesota	Blue Earth County
+27015	MN	Minnesota	Brown County
+27017	MN	Minnesota	Carlton County
+27019	MN	Minnesota	Carver County
+27021	MN	Minnesota	Cass County
+27023	MN	Minnesota	Chippewa County
+27025	MN	Minnesota	Chisago County
+27027	MN	Minnesota	Clay County
+27029	MN	Minnesota	Clearwater County
+27031	MN	Minnesota	Cook County
+27033	MN	Minnesota	Cottonwood County
+27035	MN	Minnesota	Crow Wing County
+27037	MN	Minnesota	Dakota County
+27039	MN	Minnesota	Dodge County
+27041	MN	Minnesota	Douglas County
+27043	MN	Minnesota	Faribault County
+27045	MN	Minnesota	Fillmore County
+27047	MN	Minnesota	Freeborn County
+27049	MN	Minnesota	Goodhue County
+27051	MN	Minnesota	Grant County
+27053	MN	Minnesota	Hennepin County
+27055	MN	Minnesota	Houston County
+27057	MN	Minnesota	Hubbard County
+27059	MN	Minnesota	Isanti County
+27061	MN	Minnesota	Itasca County
+27063	MN	Minnesota	Jackson County
+27065	MN	Minnesota	Kanabec County
+27067	MN	Minnesota	Kandiyohi County
+27069	MN	Minnesota	Kittson County
+27071	MN	Minnesota	Koochiching County
+27073	MN	Minnesota	Lac qui Parle County
+27075	MN	Minnesota	Lake County
+27077	MN	Minnesota	Lake of the Woods County
+27079	MN	Minnesota	Le Sueur County
+27081	MN	Minnesota	Lincoln County
+27083	MN	Minnesota	Lyon County
+27087	MN	Minnesota	Mahnomen County
+27089	MN	Minnesota	Marshall County
+27091	MN	Minnesota	Martin County
+27085	MN	Minnesota	McLeod County
+27093	MN	Minnesota	Meeker County
+27095	MN	Minnesota	Mille Lacs County
+27097	MN	Minnesota	Morrison County
+27099	MN	Minnesota	Mower County
+27101	MN	Minnesota	Murray County
+27103	MN	Minnesota	Nicollet County
+27105	MN	Minnesota	Nobles County
+27107	MN	Minnesota	Norman County
+27109	MN	Minnesota	Olmsted County
+27111	MN	Minnesota	Otter Tail County
+27113	MN	Minnesota	Pennington County
+27115	MN	Minnesota	Pine County
+27117	MN	Minnesota	Pipestone County
+27119	MN	Minnesota	Polk County
+27121	MN	Minnesota	Pope County
+27123	MN	Minnesota	Ramsey County
+27125	MN	Minnesota	Red Lake County
+27127	MN	Minnesota	Redwood County
+27129	MN	Minnesota	Renville County
+27131	MN	Minnesota	Rice County
+27133	MN	Minnesota	Rock County
+27135	MN	Minnesota	Roseau County
+27139	MN	Minnesota	Scott County
+27141	MN	Minnesota	Sherburne County
+27143	MN	Minnesota	Sibley County
+27137	MN	Minnesota	St. Louis County
+27145	MN	Minnesota	Stearns County
+27147	MN	Minnesota	Steele County
+27149	MN	Minnesota	Stevens County
+27151	MN	Minnesota	Swift County
+27153	MN	Minnesota	Todd County
+27155	MN	Minnesota	Traverse County
+27157	MN	Minnesota	Wabasha County
+27159	MN	Minnesota	Wadena County
+27161	MN	Minnesota	Waseca County
+27163	MN	Minnesota	Washington County
+27165	MN	Minnesota	Watonwan County
+27167	MN	Minnesota	Wilkin County
+27169	MN	Minnesota	Winona County
+27171	MN	Minnesota	Wright County
+27173	MN	Minnesota	Yellow Medicine County
+29001	MO	Missouri	Adair County
+29003	MO	Missouri	Andrew County
+29005	MO	Missouri	Atchison County
+29007	MO	Missouri	Audrain County
+29009	MO	Missouri	Barry County
+29011	MO	Missouri	Barton County
+29013	MO	Missouri	Bates County
+29015	MO	Missouri	Benton County
+29017	MO	Missouri	Bollinger County
+29019	MO	Missouri	Boone County
+29021	MO	Missouri	Buchanan County
+29023	MO	Missouri	Butler County
+29025	MO	Missouri	Caldwell County
+29027	MO	Missouri	Callaway County
+29029	MO	Missouri	Camden County
+29031	MO	Missouri	Cape Girardeau County
+29033	MO	Missouri	Carroll County
+29035	MO	Missouri	Carter County
+29037	MO	Missouri	Cass County
+29039	MO	Missouri	Cedar County
+29041	MO	Missouri	Chariton County
+29043	MO	Missouri	Christian County
+29045	MO	Missouri	Clark County
+29047	MO	Missouri	Clay County
+29049	MO	Missouri	Clinton County
+29051	MO	Missouri	Cole County
+29053	MO	Missouri	Cooper County
+29055	MO	Missouri	Crawford County
+29057	MO	Missouri	Dade County
+29059	MO	Missouri	Dallas County
+29061	MO	Missouri	Daviess County
+29063	MO	Missouri	DeKalb County
+29065	MO	Missouri	Dent County
+29067	MO	Missouri	Douglas County
+29069	MO	Missouri	Dunklin County
+29071	MO	Missouri	Franklin County
+29073	MO	Missouri	Gasconade County
+29075	MO	Missouri	Gentry County
+29077	MO	Missouri	Greene County
+29079	MO	Missouri	Grundy County
+29081	MO	Missouri	Harrison County
+29083	MO	Missouri	Henry County
+29085	MO	Missouri	Hickory County
+29087	MO	Missouri	Holt County
+29089	MO	Missouri	Howard County
+29091	MO	Missouri	Howell County
+29093	MO	Missouri	Iron County
+29095	MO	Missouri	Jackson County
+29097	MO	Missouri	Jasper County
+29099	MO	Missouri	Jefferson County
+29101	MO	Missouri	Johnson County
+29103	MO	Missouri	Knox County
+29105	MO	Missouri	Laclede County
+29107	MO	Missouri	Lafayette County
+29109	MO	Missouri	Lawrence County
+29111	MO	Missouri	Lewis County
+29113	MO	Missouri	Lincoln County
+29115	MO	Missouri	Linn County
+29117	MO	Missouri	Livingston County
+29121	MO	Missouri	Macon County
+29123	MO	Missouri	Madison County
+29125	MO	Missouri	Maries County
+29127	MO	Missouri	Marion County
+29119	MO	Missouri	McDonald County
+29129	MO	Missouri	Mercer County
+29131	MO	Missouri	Miller County
+29133	MO	Missouri	Mississippi County
+29135	MO	Missouri	Moniteau County
+29137	MO	Missouri	Monroe County
+29139	MO	Missouri	Montgomery County
+29141	MO	Missouri	Morgan County
+29143	MO	Missouri	New Madrid County
+29145	MO	Missouri	Newton County
+29147	MO	Missouri	Nodaway County
+29149	MO	Missouri	Oregon County
+29151	MO	Missouri	Osage County
+29153	MO	Missouri	Ozark County
+29155	MO	Missouri	Pemiscot County
+29157	MO	Missouri	Perry County
+29159	MO	Missouri	Pettis County
+29161	MO	Missouri	Phelps County
+29163	MO	Missouri	Pike County
+29165	MO	Missouri	Platte County
+29167	MO	Missouri	Polk County
+29169	MO	Missouri	Pulaski County
+29171	MO	Missouri	Putnam County
+29173	MO	Missouri	Ralls County
+29175	MO	Missouri	Randolph County
+29177	MO	Missouri	Ray County
+29179	MO	Missouri	Reynolds County
+29181	MO	Missouri	Ripley County
+29195	MO	Missouri	Saline County
+29197	MO	Missouri	Schuyler County
+29199	MO	Missouri	Scotland County
+29201	MO	Missouri	Scott County
+29203	MO	Missouri	Shannon County
+29205	MO	Missouri	Shelby County
+29183	MO	Missouri	St. Charles County
+29185	MO	Missouri	St. Clair County
+29187	MO	Missouri	St. Francois County
+29189	MO	Missouri	St. Louis County
+29510	MO	Missouri	St. Louis city
+29186	MO	Missouri	Ste. Genevieve County
+29207	MO	Missouri	Stoddard County
+29209	MO	Missouri	Stone County
+29211	MO	Missouri	Sullivan County
+29213	MO	Missouri	Taney County
+29215	MO	Missouri	Texas County
+29217	MO	Missouri	Vernon County
+29219	MO	Missouri	Warren County
+29221	MO	Missouri	Washington County
+29223	MO	Missouri	Wayne County
+29225	MO	Missouri	Webster County
+29227	MO	Missouri	Worth County
+29229	MO	Missouri	Wright County
+28001	MS	Mississippi	Adams County
+28003	MS	Mississippi	Alcorn County
+28005	MS	Mississippi	Amite County
+28007	MS	Mississippi	Attala County
+28009	MS	Mississippi	Benton County
+28011	MS	Mississippi	Bolivar County
+28013	MS	Mississippi	Calhoun County
+28015	MS	Mississippi	Carroll County
+28017	MS	Mississippi	Chickasaw County
+28019	MS	Mississippi	Choctaw County
+28021	MS	Mississippi	Claiborne County
+28023	MS	Mississippi	Clarke County
+28025	MS	Mississippi	Clay County
+28027	MS	Mississippi	Coahoma County
+28029	MS	Mississippi	Copiah County
+28031	MS	Mississippi	Covington County
+28033	MS	Mississippi	DeSoto County
+28035	MS	Mississippi	Forrest County
+28037	MS	Mississippi	Franklin County
+28039	MS	Mississippi	George County
+28041	MS	Mississippi	Greene County
+28043	MS	Mississippi	Grenada County
+28045	MS	Mississippi	Hancock County
+28047	MS	Mississippi	Harrison County
+28049	MS	Mississippi	Hinds County
+28051	MS	Mississippi	Holmes County
+28053	MS	Mississippi	Humphreys County
+28055	MS	Mississippi	Issaquena County
+28057	MS	Mississippi	Itawamba County
+28059	MS	Mississippi	Jackson County
+28061	MS	Mississippi	Jasper County
+28063	MS	Mississippi	Jefferson County
+28065	MS	Mississippi	Jefferson Davis County
+28067	MS	Mississippi	Jones County
+28069	MS	Mississippi	Kemper County
+28071	MS	Mississippi	Lafayette County
+28073	MS	Mississippi	Lamar County
+28075	MS	Mississippi	Lauderdale County
+28077	MS	Mississippi	Lawrence County
+28079	MS	Mississippi	Leake County
+28081	MS	Mississippi	Lee County
+28083	MS	Mississippi	Leflore County
+28085	MS	Mississippi	Lincoln County
+28087	MS	Mississippi	Lowndes County
+28089	MS	Mississippi	Madison County
+28091	MS	Mississippi	Marion County
+28093	MS	Mississippi	Marshall County
+28095	MS	Mississippi	Monroe County
+28097	MS	Mississippi	Montgomery County
+28099	MS	Mississippi	Neshoba County
+28101	MS	Mississippi	Newton County
+28103	MS	Mississippi	Noxubee County
+28105	MS	Mississippi	Oktibbeha County
+28107	MS	Mississippi	Panola County
+28109	MS	Mississippi	Pearl River County
+28111	MS	Mississippi	Perry County
+28113	MS	Mississippi	Pike County
+28115	MS	Mississippi	Pontotoc County
+28117	MS	Mississippi	Prentiss County
+28119	MS	Mississippi	Quitman County
+28121	MS	Mississippi	Rankin County
+28123	MS	Mississippi	Scott County
+28125	MS	Mississippi	Sharkey County
+28127	MS	Mississippi	Simpson County
+28129	MS	Mississippi	Smith County
+28131	MS	Mississippi	Stone County
+28133	MS	Mississippi	Sunflower County
+28135	MS	Mississippi	Tallahatchie County
+28137	MS	Mississippi	Tate County
+28139	MS	Mississippi	Tippah County
+28141	MS	Mississippi	Tishomingo County
+28143	MS	Mississippi	Tunica County
+28145	MS	Mississippi	Union County
+28147	MS	Mississippi	Walthall County
+28149	MS	Mississippi	Warren County
+28151	MS	Mississippi	Washington County
+28153	MS	Mississippi	Wayne County
+28155	MS	Mississippi	Webster County
+28157	MS	Mississippi	Wilkinson County
+28159	MS	Mississippi	Winston County
+28161	MS	Mississippi	Yalobusha County
+28163	MS	Mississippi	Yazoo County
+30001	MT	Montana	Beaverhead County
+30003	MT	Montana	Big Horn County
+30005	MT	Montana	Blaine County
+30007	MT	Montana	Broadwater County
+30009	MT	Montana	Carbon County
+30011	MT	Montana	Carter County
+30013	MT	Montana	Cascade County
+30015	MT	Montana	Chouteau County
+30017	MT	Montana	Custer County
+30019	MT	Montana	Daniels County
+30021	MT	Montana	Dawson County
+30023	MT	Montana	Deer Lodge County
+30025	MT	Montana	Fallon County
+30027	MT	Montana	Fergus County
+30029	MT	Montana	Flathead County
+30031	MT	Montana	Gallatin County
+30033	MT	Montana	Garfield County
+30035	MT	Montana	Glacier County
+30037	MT	Montana	Golden Valley County
+30039	MT	Montana	Granite County
+30041	MT	Montana	Hill County
+30043	MT	Montana	Jefferson County
+30045	MT	Montana	Judith Basin County
+30047	MT	Montana	Lake County
+30049	MT	Montana	Lewis and Clark County
+30051	MT	Montana	Liberty County
+30053	MT	Montana	Lincoln County
+30057	MT	Montana	Madison County
+30055	MT	Montana	McCone County
+30059	MT	Montana	Meagher County
+30061	MT	Montana	Mineral County
+30063	MT	Montana	Missoula County
+30065	MT	Montana	Musselshell County
+30067	MT	Montana	Park County
+30069	MT	Montana	Petroleum County
+30071	MT	Montana	Phillips County
+30073	MT	Montana	Pondera County
+30075	MT	Montana	Powder River County
+30077	MT	Montana	Powell County
+30079	MT	Montana	Prairie County
+30081	MT	Montana	Ravalli County
+30083	MT	Montana	Richland County
+30085	MT	Montana	Roosevelt County
+30087	MT	Montana	Rosebud County
+30089	MT	Montana	Sanders County
+30091	MT	Montana	Sheridan County
+30093	MT	Montana	Silver Bow County
+30095	MT	Montana	Stillwater County
+30097	MT	Montana	Sweet Grass County
+30099	MT	Montana	Teton County
+30101	MT	Montana	Toole County
+30103	MT	Montana	Treasure County
+30105	MT	Montana	Valley County
+30107	MT	Montana	Wheatland County
+30109	MT	Montana	Wibaux County
+30111	MT	Montana	Yellowstone County
+37001	NC	North Carolina	Alamance County
+37003	NC	North Carolina	Alexander County
+37005	NC	North Carolina	Alleghany County
+37007	NC	North Carolina	Anson County
+37009	NC	North Carolina	Ashe County
+37011	NC	North Carolina	Avery County
+37013	NC	North Carolina	Beaufort County
+37015	NC	North Carolina	Bertie County
+37017	NC	North Carolina	Bladen County
+37019	NC	North Carolina	Brunswick County
+37021	NC	North Carolina	Buncombe County
+37023	NC	North Carolina	Burke County
+37025	NC	North Carolina	Cabarrus County
+37027	NC	North Carolina	Caldwell County
+37029	NC	North Carolina	Camden County
+37031	NC	North Carolina	Carteret County
+37033	NC	North Carolina	Caswell County
+37035	NC	North Carolina	Catawba County
+37037	NC	North Carolina	Chatham County
+37039	NC	North Carolina	Cherokee County
+37041	NC	North Carolina	Chowan County
+37043	NC	North Carolina	Clay County
+37045	NC	North Carolina	Cleveland County
+37047	NC	North Carolina	Columbus County
+37049	NC	North Carolina	Craven County
+37051	NC	North Carolina	Cumberland County
+37053	NC	North Carolina	Currituck County
+37055	NC	North Carolina	Dare County
+37057	NC	North Carolina	Davidson County
+37059	NC	North Carolina	Davie County
+37061	NC	North Carolina	Duplin County
+37063	NC	North Carolina	Durham County
+37065	NC	North Carolina	Edgecombe County
+37067	NC	North Carolina	Forsyth County
+37069	NC	North Carolina	Franklin County
+37071	NC	North Carolina	Gaston County
+37073	NC	North Carolina	Gates County
+37075	NC	North Carolina	Graham County
+37077	NC	North Carolina	Granville County
+37079	NC	North Carolina	Greene County
+37081	NC	North Carolina	Guilford County
+37083	NC	North Carolina	Halifax County
+37085	NC	North Carolina	Harnett County
+37087	NC	North Carolina	Haywood County
+37089	NC	North Carolina	Henderson County
+37091	NC	North Carolina	Hertford County
+37093	NC	North Carolina	Hoke County
+37095	NC	North Carolina	Hyde County
+37097	NC	North Carolina	Iredell County
+37099	NC	North Carolina	Jackson County
+37101	NC	North Carolina	Johnston County
+37103	NC	North Carolina	Jones County
+37105	NC	North Carolina	Lee County
+37107	NC	North Carolina	Lenoir County
+37109	NC	North Carolina	Lincoln County
+37113	NC	North Carolina	Macon County
+37115	NC	North Carolina	Madison County
+37117	NC	North Carolina	Martin County
+37111	NC	North Carolina	McDowell County
+37119	NC	North Carolina	Mecklenburg County
+37121	NC	North Carolina	Mitchell County
+37123	NC	North Carolina	Montgomery County
+37125	NC	North Carolina	Moore County
+37127	NC	North Carolina	Nash County
+37129	NC	North Carolina	New Hanover County
+37131	NC	North Carolina	Northampton County
+37133	NC	North Carolina	Onslow County
+37135	NC	North Carolina	Orange County
+37137	NC	North Carolina	Pamlico County
+37139	NC	North Carolina	Pasquotank County
+37141	NC	North Carolina	Pender County
+37143	NC	North Carolina	Perquimans County
+37145	NC	North Carolina	Person County
+37147	NC	North Carolina	Pitt County
+37149	NC	North Carolina	Polk County
+37151	NC	North Carolina	Randolph County
+37153	NC	North Carolina	Richmond County
+37155	NC	North Carolina	Robeson County
+37157	NC	North Carolina	Rockingham County
+37159	NC	North Carolina	Rowan County
+37161	NC	North Carolina	Rutherford County
+37163	NC	North Carolina	Sampson County
+37165	NC	North Carolina	Scotland County
+37167	NC	North Carolina	Stanly County
+37169	NC	North Carolina	Stokes County
+37171	NC	North Carolina	Surry County
+37173	NC	North Carolina	Swain County
+37175	NC	North Carolina	Transylvania County
+37177	NC	North Carolina	Tyrrell County
+37179	NC	North Carolina	Union County
+37181	NC	North Carolina	Vance County
+37183	NC	North Carolina	Wake County
+37185	NC	North Carolina	Warren County
+37187	NC	North Carolina	Washington County
+37189	NC	North Carolina	Watauga County
+37191	NC	North Carolina	Wayne County
+37193	NC	North Carolina	Wilkes County
+37195	NC	North Carolina	Wilson County
+37197	NC	North Carolina	Yadkin County
+37199	NC	North Carolina	Yancey County
+38001	ND	North Dakota	Adams County
+38003	ND	North Dakota	Barnes County
+38005	ND	North Dakota	Benson County
+38007	ND	North Dakota	Billings County
+38009	ND	North Dakota	Bottineau County
+38011	ND	North Dakota	Bowman County
+38013	ND	North Dakota	Burke County
+38015	ND	North Dakota	Burleigh County
+38017	ND	North Dakota	Cass County
+38019	ND	North Dakota	Cavalier County
+38021	ND	North Dakota	Dickey County
+38023	ND	North Dakota	Divide County
+38025	ND	North Dakota	Dunn County
+38027	ND	North Dakota	Eddy County
+38029	ND	North Dakota	Emmons County
+38031	ND	North Dakota	Foster County
+38033	ND	North Dakota	Golden Valley County
+38035	ND	North Dakota	Grand Forks County
+38037	ND	North Dakota	Grant County
+38039	ND	North Dakota	Griggs County
+38041	ND	North Dakota	Hettinger County
+38043	ND	North Dakota	Kidder County
+38045	ND	North Dakota	LaMoure County
+38047	ND	North Dakota	Logan County
+38049	ND	North Dakota	McHenry County
+38051	ND	North Dakota	McIntosh County
+38053	ND	North Dakota	McKenzie County
+38055	ND	North Dakota	McLean County
+38057	ND	North Dakota	Mercer County
+38059	ND	North Dakota	Morton County
+38061	ND	North Dakota	Mountrail County
+38063	ND	North Dakota	Nelson County
+38065	ND	North Dakota	Oliver County
+38067	ND	North Dakota	Pembina County
+38069	ND	North Dakota	Pierce County
+38071	ND	North Dakota	Ramsey County
+38073	ND	North Dakota	Ransom County
+38075	ND	North Dakota	Renville County
+38077	ND	North Dakota	Richland County
+38079	ND	North Dakota	Rolette County
+38081	ND	North Dakota	Sargent County
+38083	ND	North Dakota	Sheridan County
+38085	ND	North Dakota	Sioux County
+38087	ND	North Dakota	Slope County
+38089	ND	North Dakota	Stark County
+38091	ND	North Dakota	Steele County
+38093	ND	North Dakota	Stutsman County
+38095	ND	North Dakota	Towner County
+38097	ND	North Dakota	Traill County
+38099	ND	North Dakota	Walsh County
+38101	ND	North Dakota	Ward County
+38103	ND	North Dakota	Wells County
+38105	ND	North Dakota	Williams County
+31001	NE	Nebraska	Adams County
+31003	NE	Nebraska	Antelope County
+31005	NE	Nebraska	Arthur County
+31007	NE	Nebraska	Banner County
+31009	NE	Nebraska	Blaine County
+31011	NE	Nebraska	Boone County
+31013	NE	Nebraska	Box Butte County
+31015	NE	Nebraska	Boyd County
+31017	NE	Nebraska	Brown County
+31019	NE	Nebraska	Buffalo County
+31021	NE	Nebraska	Burt County
+31023	NE	Nebraska	Butler County
+31025	NE	Nebraska	Cass County
+31027	NE	Nebraska	Cedar County
+31029	NE	Nebraska	Chase County
+31031	NE	Nebraska	Cherry County
+31033	NE	Nebraska	Cheyenne County
+31035	NE	Nebraska	Clay County
+31037	NE	Nebraska	Colfax County
+31039	NE	Nebraska	Cuming County
+31041	NE	Nebraska	Custer County
+31043	NE	Nebraska	Dakota County
+31045	NE	Nebraska	Dawes County
+31047	NE	Nebraska	Dawson County
+31049	NE	Nebraska	Deuel County
+31051	NE	Nebraska	Dixon County
+31053	NE	Nebraska	Dodge County
+31055	NE	Nebraska	Douglas County
+31057	NE	Nebraska	Dundy County
+31059	NE	Nebraska	Fillmore County
+31061	NE	Nebraska	Franklin County
+31063	NE	Nebraska	Frontier County
+31065	NE	Nebraska	Furnas County
+31067	NE	Nebraska	Gage County
+31069	NE	Nebraska	Garden County
+31071	NE	Nebraska	Garfield County
+31073	NE	Nebraska	Gosper County
+31075	NE	Nebraska	Grant County
+31077	NE	Nebraska	Greeley County
+31079	NE	Nebraska	Hall County
+31081	NE	Nebraska	Hamilton County
+31083	NE	Nebraska	Harlan County
+31085	NE	Nebraska	Hayes County
+31087	NE	Nebraska	Hitchcock County
+31089	NE	Nebraska	Holt County
+31091	NE	Nebraska	Hooker County
+31093	NE	Nebraska	Howard County
+31095	NE	Nebraska	Jefferson County
+31097	NE	Nebraska	Johnson County
+31099	NE	Nebraska	Kearney County
+31101	NE	Nebraska	Keith County
+31103	NE	Nebraska	Keya Paha County
+31105	NE	Nebraska	Kimball County
+31107	NE	Nebraska	Knox County
+31109	NE	Nebraska	Lancaster County
+31111	NE	Nebraska	Lincoln County
+31113	NE	Nebraska	Logan County
+31115	NE	Nebraska	Loup County
+31119	NE	Nebraska	Madison County
+31117	NE	Nebraska	McPherson County
+31121	NE	Nebraska	Merrick County
+31123	NE	Nebraska	Morrill County
+31125	NE	Nebraska	Nance County
+31127	NE	Nebraska	Nemaha County
+31129	NE	Nebraska	Nuckolls County
+31131	NE	Nebraska	Otoe County
+31133	NE	Nebraska	Pawnee County
+31135	NE	Nebraska	Perkins County
+31137	NE	Nebraska	Phelps County
+31139	NE	Nebraska	Pierce County
+31141	NE	Nebraska	Platte County
+31143	NE	Nebraska	Polk County
+31145	NE	Nebraska	Red Willow County
+31147	NE	Nebraska	Richardson County
+31149	NE	Nebraska	Rock County
+31151	NE	Nebraska	Saline County
+31153	NE	Nebraska	Sarpy County
+31155	NE	Nebraska	Saunders County
+31157	NE	Nebraska	Scotts Bluff County
+31159	NE	Nebraska	Seward County
+31161	NE	Nebraska	Sheridan County
+31163	NE	Nebraska	Sherman County
+31165	NE	Nebraska	Sioux County
+31167	NE	Nebraska	Stanton County
+31169	NE	Nebraska	Thayer County
+31171	NE	Nebraska	Thomas County
+31173	NE	Nebraska	Thurston County
+31175	NE	Nebraska	Valley County
+31177	NE	Nebraska	Washington County
+31179	NE	Nebraska	Wayne County
+31181	NE	Nebraska	Webster County
+31183	NE	Nebraska	Wheeler County
+31185	NE	Nebraska	York County
+33001	NH	New Hampshire	Belknap County
+33003	NH	New Hampshire	Carroll County
+33005	NH	New Hampshire	Cheshire County
+33007	NH	New Hampshire	Coos County
+33009	NH	New Hampshire	Grafton County
+33011	NH	New Hampshire	Hillsborough County
+33013	NH	New Hampshire	Merrimack County
+33015	NH	New Hampshire	Rockingham County
+33017	NH	New Hampshire	Strafford County
+33019	NH	New Hampshire	Sullivan County
+34001	NJ	New Jersey	Atlantic County
+34003	NJ	New Jersey	Bergen County
+34005	NJ	New Jersey	Burlington County
+34007	NJ	New Jersey	Camden County
+34009	NJ	New Jersey	Cape May County
+34011	NJ	New Jersey	Cumberland County
+34013	NJ	New Jersey	Essex County
+34015	NJ	New Jersey	Gloucester County
+34017	NJ	New Jersey	Hudson County
+34019	NJ	New Jersey	Hunterdon County
+34021	NJ	New Jersey	Mercer County
+34023	NJ	New Jersey	Middlesex County
+34025	NJ	New Jersey	Monmouth County
+34027	NJ	New Jersey	Morris County
+34029	NJ	New Jersey	Ocean County
+34031	NJ	New Jersey	Passaic County
+34033	NJ	New Jersey	Salem County
+34035	NJ	New Jersey	Somerset County
+34037	NJ	New Jersey	Sussex County
+34039	NJ	New Jersey	Union County
+34041	NJ	New Jersey	Warren County
+35001	NM	New Mexico	Bernalillo County
+35003	NM	New Mexico	Catron County
+35005	NM	New Mexico	Chaves County
+35006	NM	New Mexico	Cibola County
+35007	NM	New Mexico	Colfax County
+35009	NM	New Mexico	Curry County
+35011	NM	New Mexico	De Baca County
+35013	NM	New Mexico	Doña Ana County
+35015	NM	New Mexico	Eddy County
+35017	NM	New Mexico	Grant County
+35019	NM	New Mexico	Guadalupe County
+35021	NM	New Mexico	Harding County
+35023	NM	New Mexico	Hidalgo County
+35025	NM	New Mexico	Lea County
+35027	NM	New Mexico	Lincoln County
+35028	NM	New Mexico	Los Alamos County
+35029	NM	New Mexico	Luna County
+35031	NM	New Mexico	McKinley County
+35033	NM	New Mexico	Mora County
+35035	NM	New Mexico	Otero County
+35037	NM	New Mexico	Quay County
+35039	NM	New Mexico	Rio Arriba County
+35041	NM	New Mexico	Roosevelt County
+35045	NM	New Mexico	San Juan County
+35047	NM	New Mexico	San Miguel County
+35043	NM	New Mexico	Sandoval County
+35049	NM	New Mexico	Santa Fe County
+35051	NM	New Mexico	Sierra County
+35053	NM	New Mexico	Socorro County
+35055	NM	New Mexico	Taos County
+35057	NM	New Mexico	Torrance County
+35059	NM	New Mexico	Union County
+35061	NM	New Mexico	Valencia County
+32510	NV	Nevada	Carson City
+32001	NV	Nevada	Churchill County
+32003	NV	Nevada	Clark County
+32005	NV	Nevada	Douglas County
+32007	NV	Nevada	Elko County
+32009	NV	Nevada	Esmeralda County
+32011	NV	Nevada	Eureka County
+32013	NV	Nevada	Humboldt County
+32015	NV	Nevada	Lander County
+32017	NV	Nevada	Lincoln County
+32019	NV	Nevada	Lyon County
+32021	NV	Nevada	Mineral County
+32023	NV	Nevada	Nye County
+32027	NV	Nevada	Pershing County
+32029	NV	Nevada	Storey County
+32031	NV	Nevada	Washoe County
+32033	NV	Nevada	White Pine County
+36001	NY	New York	Albany County
+36003	NY	New York	Allegany County
+36005	NY	New York	Bronx County
+36007	NY	New York	Broome County
+36009	NY	New York	Cattaraugus County
+36011	NY	New York	Cayuga County
+36013	NY	New York	Chautauqua County
+36015	NY	New York	Chemung County
+36017	NY	New York	Chenango County
+36019	NY	New York	Clinton County
+36021	NY	New York	Columbia County
+36023	NY	New York	Cortland County
+36025	NY	New York	Delaware County
+36027	NY	New York	Dutchess County
+36029	NY	New York	Erie County
+36031	NY	New York	Essex County
+36033	NY	New York	Franklin County
+36035	NY	New York	Fulton County
+36037	NY	New York	Genesee County
+36039	NY	New York	Greene County
+36041	NY	New York	Hamilton County
+36043	NY	New York	Herkimer County
+36045	NY	New York	Jefferson County
+36047	NY	New York	Kings County
+36049	NY	New York	Lewis County
+36051	NY	New York	Livingston County
+36053	NY	New York	Madison County
+36055	NY	New York	Monroe County
+36057	NY	New York	Montgomery County
+36059	NY	New York	Nassau County
+36061	NY	New York	New York County
+36063	NY	New York	Niagara County
+36065	NY	New York	Oneida County
+36067	NY	New York	Onondaga County
+36069	NY	New York	Ontario County
+36071	NY	New York	Orange County
+36073	NY	New York	Orleans County
+36075	NY	New York	Oswego County
+36077	NY	New York	Otsego County
+36079	NY	New York	Putnam County
+36081	NY	New York	Queens County
+36083	NY	New York	Rensselaer County
+36085	NY	New York	Richmond County
+36087	NY	New York	Rockland County
+36091	NY	New York	Saratoga County
+36093	NY	New York	Schenectady County
+36095	NY	New York	Schoharie County
+36097	NY	New York	Schuyler County
+36099	NY	New York	Seneca County
+36089	NY	New York	St. Lawrence County
+36101	NY	New York	Steuben County
+36103	NY	New York	Suffolk County
+36105	NY	New York	Sullivan County
+36107	NY	New York	Tioga County
+36109	NY	New York	Tompkins County
+36111	NY	New York	Ulster County
+36113	NY	New York	Warren County
+36115	NY	New York	Washington County
+36117	NY	New York	Wayne County
+36119	NY	New York	Westchester County
+36121	NY	New York	Wyoming County
+36123	NY	New York	Yates County
+39001	OH	Ohio	Adams County
+39003	OH	Ohio	Allen County
+39005	OH	Ohio	Ashland County
+39007	OH	Ohio	Ashtabula County
+39009	OH	Ohio	Athens County
+39011	OH	Ohio	Auglaize County
+39013	OH	Ohio	Belmont County
+39015	OH	Ohio	Brown County
+39017	OH	Ohio	Butler County
+39019	OH	Ohio	Carroll County
+39021	OH	Ohio	Champaign County
+39023	OH	Ohio	Clark County
+39025	OH	Ohio	Clermont County
+39027	OH	Ohio	Clinton County
+39029	OH	Ohio	Columbiana County
+39031	OH	Ohio	Coshocton County
+39033	OH	Ohio	Crawford County
+39035	OH	Ohio	Cuyahoga County
+39037	OH	Ohio	Darke County
+39039	OH	Ohio	Defiance County
+39041	OH	Ohio	Delaware County
+39043	OH	Ohio	Erie County
+39045	OH	Ohio	Fairfield County
+39047	OH	Ohio	Fayette County
+39049	OH	Ohio	Franklin County
+39051	OH	Ohio	Fulton County
+39053	OH	Ohio	Gallia County
+39055	OH	Ohio	Geauga County
+39057	OH	Ohio	Greene County
+39059	OH	Ohio	Guernsey County
+39061	OH	Ohio	Hamilton County
+39063	OH	Ohio	Hancock County
+39065	OH	Ohio	Hardin County
+39067	OH	Ohio	Harrison County
+39069	OH	Ohio	Henry County
+39071	OH	Ohio	Highland County
+39073	OH	Ohio	Hocking County
+39075	OH	Ohio	Holmes County
+39077	OH	Ohio	Huron County
+39079	OH	Ohio	Jackson County
+39081	OH	Ohio	Jefferson County
+39083	OH	Ohio	Knox County
+39085	OH	Ohio	Lake County
+39087	OH	Ohio	Lawrence County
+39089	OH	Ohio	Licking County
+39091	OH	Ohio	Logan County
+39093	OH	Ohio	Lorain County
+39095	OH	Ohio	Lucas County
+39097	OH	Ohio	Madison County
+39099	OH	Ohio	Mahoning County
+39101	OH	Ohio	Marion County
+39103	OH	Ohio	Medina County
+39105	OH	Ohio	Meigs County
+39107	OH	Ohio	Mercer County
+39109	OH	Ohio	Miami County
+39111	OH	Ohio	Monroe County
+39113	OH	Ohio	Montgomery County
+39115	OH	Ohio	Morgan County
+39117	OH	Ohio	Morrow County
+39119	OH	Ohio	Muskingum County
+39121	OH	Ohio	Noble County
+39123	OH	Ohio	Ottawa County
+39125	OH	Ohio	Paulding County
+39127	OH	Ohio	Perry County
+39129	OH	Ohio	Pickaway County
+39131	OH	Ohio	Pike County
+39133	OH	Ohio	Portage County
+39135	OH	Ohio	Preble County
+39137	OH	Ohio	Putnam County
+39139	OH	Ohio	Richland County
+39141	OH	Ohio	Ross County
+39143	OH	Ohio	Sandusky County
+39145	OH	Ohio	Scioto County
+39147	OH	Ohio	Seneca County
+39149	OH	Ohio	Shelby County
+39151	OH	Ohio	Stark County
+39153	OH	Ohio	Summit County
+39155	OH	Ohio	Trumbull County
+39157	OH	Ohio	Tuscarawas County
+39159	OH	Ohio	Union County
+39161	OH	Ohio	Van Wert County
+39163	OH	Ohio	Vinton County
+39165	OH	Ohio	Warren County
+39167	OH	Ohio	Washington County
+39169	OH	Ohio	Wayne County
+39171	OH	Ohio	Williams County
+39173	OH	Ohio	Wood County
+39175	OH	Ohio	Wyandot County
+40001	OK	Oklahoma	Adair County
+40003	OK	Oklahoma	Alfalfa County
+40005	OK	Oklahoma	Atoka County
+40007	OK	Oklahoma	Beaver County
+40009	OK	Oklahoma	Beckham County
+40011	OK	Oklahoma	Blaine County
+40013	OK	Oklahoma	Bryan County
+40015	OK	Oklahoma	Caddo County
+40017	OK	Oklahoma	Canadian County
+40019	OK	Oklahoma	Carter County
+40021	OK	Oklahoma	Cherokee County
+40023	OK	Oklahoma	Choctaw County
+40025	OK	Oklahoma	Cimarron County
+40027	OK	Oklahoma	Cleveland County
+40029	OK	Oklahoma	Coal County
+40031	OK	Oklahoma	Comanche County
+40033	OK	Oklahoma	Cotton County
+40035	OK	Oklahoma	Craig County
+40037	OK	Oklahoma	Creek County
+40039	OK	Oklahoma	Custer County
+40041	OK	Oklahoma	Delaware County
+40043	OK	Oklahoma	Dewey County
+40045	OK	Oklahoma	Ellis County
+40047	OK	Oklahoma	Garfield County
+40049	OK	Oklahoma	Garvin County
+40051	OK	Oklahoma	Grady County
+40053	OK	Oklahoma	Grant County
+40055	OK	Oklahoma	Greer County
+40057	OK	Oklahoma	Harmon County
+40059	OK	Oklahoma	Harper County
+40061	OK	Oklahoma	Haskell County
+40063	OK	Oklahoma	Hughes County
+40065	OK	Oklahoma	Jackson County
+40067	OK	Oklahoma	Jefferson County
+40069	OK	Oklahoma	Johnston County
+40071	OK	Oklahoma	Kay County
+40073	OK	Oklahoma	Kingfisher County
+40075	OK	Oklahoma	Kiowa County
+40077	OK	Oklahoma	Latimer County
+40079	OK	Oklahoma	Le Flore County
+40081	OK	Oklahoma	Lincoln County
+40083	OK	Oklahoma	Logan County
+40085	OK	Oklahoma	Love County
+40093	OK	Oklahoma	Major County
+40095	OK	Oklahoma	Marshall County
+40097	OK	Oklahoma	Mayes County
+40087	OK	Oklahoma	McClain County
+40089	OK	Oklahoma	McCurtain County
+40091	OK	Oklahoma	McIntosh County
+40099	OK	Oklahoma	Murray County
+40101	OK	Oklahoma	Muskogee County
+40103	OK	Oklahoma	Noble County
+40105	OK	Oklahoma	Nowata County
+40107	OK	Oklahoma	Okfuskee County
+40109	OK	Oklahoma	Oklahoma County
+40111	OK	Oklahoma	Okmulgee County
+40113	OK	Oklahoma	Osage County
+40115	OK	Oklahoma	Ottawa County
+40117	OK	Oklahoma	Pawnee County
+40119	OK	Oklahoma	Payne County
+40121	OK	Oklahoma	Pittsburg County
+40123	OK	Oklahoma	Pontotoc County
+40125	OK	Oklahoma	Pottawatomie County
+40127	OK	Oklahoma	Pushmataha County
+40129	OK	Oklahoma	Roger Mills County
+40131	OK	Oklahoma	Rogers County
+40133	OK	Oklahoma	Seminole County
+40135	OK	Oklahoma	Sequoyah County
+40137	OK	Oklahoma	Stephens County
+40139	OK	Oklahoma	Texas County
+40141	OK	Oklahoma	Tillman County
+40143	OK	Oklahoma	Tulsa County
+40145	OK	Oklahoma	Wagoner County
+40147	OK	Oklahoma	Washington County
+40149	OK	Oklahoma	Washita County
+40151	OK	Oklahoma	Woods County
+40153	OK	Oklahoma	Woodward County
+41001	OR	Oregon	Baker County
+41003	OR	Oregon	Benton County
+41005	OR	Oregon	Clackamas County
+41007	OR	Oregon	Clatsop County
+41009	OR	Oregon	Columbia County
+41011	OR	Oregon	Coos County
+41013	OR	Oregon	Crook County
+41015	OR	Oregon	Curry County
+41017	OR	Oregon	Deschutes County
+41019	OR	Oregon	Douglas County
+41021	OR	Oregon	Gilliam County
+41023	OR	Oregon	Grant County
+41025	OR	Oregon	Harney County
+41027	OR	Oregon	Hood River County
+41029	OR	Oregon	Jackson County
+41031	OR	Oregon	Jefferson County
+41033	OR	Oregon	Josephine County
+41035	OR	Oregon	Klamath County
+41037	OR	Oregon	Lake County
+41039	OR	Oregon	Lane County
+41041	OR	Oregon	Lincoln County
+41043	OR	Oregon	Linn County
+41045	OR	Oregon	Malheur County
+41047	OR	Oregon	Marion County
+41049	OR	Oregon	Morrow County
+41051	OR	Oregon	Multnomah County
+41053	OR	Oregon	Polk County
+41055	OR	Oregon	Sherman County
+41057	OR	Oregon	Tillamook County
+41059	OR	Oregon	Umatilla County
+41061	OR	Oregon	Union County
+41063	OR	Oregon	Wallowa County
+41065	OR	Oregon	Wasco County
+41067	OR	Oregon	Washington County
+41069	OR	Oregon	Wheeler County
+41071	OR	Oregon	Yamhill County
+42001	PA	Pennsylvania	Adams County
+42003	PA	Pennsylvania	Allegheny County
+42005	PA	Pennsylvania	Armstrong County
+42007	PA	Pennsylvania	Beaver County
+42009	PA	Pennsylvania	Bedford County
+42011	PA	Pennsylvania	Berks County
+42013	PA	Pennsylvania	Blair County
+42015	PA	Pennsylvania	Bradford County
+42017	PA	Pennsylvania	Bucks County
+42019	PA	Pennsylvania	Butler County
+42021	PA	Pennsylvania	Cambria County
+42023	PA	Pennsylvania	Cameron County
+42025	PA	Pennsylvania	Carbon County
+42027	PA	Pennsylvania	Centre County
+42029	PA	Pennsylvania	Chester County
+42031	PA	Pennsylvania	Clarion County
+42033	PA	Pennsylvania	Clearfield County
+42035	PA	Pennsylvania	Clinton County
+42037	PA	Pennsylvania	Columbia County
+42039	PA	Pennsylvania	Crawford County
+42041	PA	Pennsylvania	Cumberland County
+42043	PA	Pennsylvania	Dauphin County
+42045	PA	Pennsylvania	Delaware County
+42047	PA	Pennsylvania	Elk County
+42049	PA	Pennsylvania	Erie County
+42051	PA	Pennsylvania	Fayette County
+42053	PA	Pennsylvania	Forest County
+42055	PA	Pennsylvania	Franklin County
+42057	PA	Pennsylvania	Fulton County
+42059	PA	Pennsylvania	Greene County
+42061	PA	Pennsylvania	Huntingdon County
+42063	PA	Pennsylvania	Indiana County
+42065	PA	Pennsylvania	Jefferson County
+42067	PA	Pennsylvania	Juniata County
+42069	PA	Pennsylvania	Lackawanna County
+42071	PA	Pennsylvania	Lancaster County
+42073	PA	Pennsylvania	Lawrence County
+42075	PA	Pennsylvania	Lebanon County
+42077	PA	Pennsylvania	Lehigh County
+42079	PA	Pennsylvania	Luzerne County
+42081	PA	Pennsylvania	Lycoming County
+42083	PA	Pennsylvania	McKean County
+42085	PA	Pennsylvania	Mercer County
+42087	PA	Pennsylvania	Mifflin County
+42089	PA	Pennsylvania	Monroe County
+42091	PA	Pennsylvania	Montgomery County
+42093	PA	Pennsylvania	Montour County
+42095	PA	Pennsylvania	Northampton County
+42097	PA	Pennsylvania	Northumberland County
+42099	PA	Pennsylvania	Perry County
+42101	PA	Pennsylvania	Philadelphia County
+42103	PA	Pennsylvania	Pike County
+42105	PA	Pennsylvania	Potter County
+42107	PA	Pennsylvania	Schuylkill County
+42109	PA	Pennsylvania	Snyder County
+42111	PA	Pennsylvania	Somerset County
+42113	PA	Pennsylvania	Sullivan County
+42115	PA	Pennsylvania	Susquehanna County
+42117	PA	Pennsylvania	Tioga County
+42119	PA	Pennsylvania	Union County
+42121	PA	Pennsylvania	Venango County
+42123	PA	Pennsylvania	Warren County
+42125	PA	Pennsylvania	Washington County
+42127	PA	Pennsylvania	Wayne County
+42129	PA	Pennsylvania	Westmoreland County
+42131	PA	Pennsylvania	Wyoming County
+42133	PA	Pennsylvania	York County
+72001	PR	Puerto Rico	Adjuntas Municipio
+72003	PR	Puerto Rico	Aguada Municipio
+72005	PR	Puerto Rico	Aguadilla Municipio
+72007	PR	Puerto Rico	Aguas Buenas Municipio
+72009	PR	Puerto Rico	Aibonito Municipio
+72013	PR	Puerto Rico	Arecibo Municipio
+72015	PR	Puerto Rico	Arroyo Municipio
+72011	PR	Puerto Rico	Añasco Municipio
+72017	PR	Puerto Rico	Barceloneta Municipio
+72019	PR	Puerto Rico	Barranquitas Municipio
+72021	PR	Puerto Rico	Bayamón Municipio
+72023	PR	Puerto Rico	Cabo Rojo Municipio
+72025	PR	Puerto Rico	Caguas Municipio
+72027	PR	Puerto Rico	Camuy Municipio
+72029	PR	Puerto Rico	Canóvanas Municipio
+72031	PR	Puerto Rico	Carolina Municipio
+72033	PR	Puerto Rico	Cataño Municipio
+72035	PR	Puerto Rico	Cayey Municipio
+72037	PR	Puerto Rico	Ceiba Municipio
+72039	PR	Puerto Rico	Ciales Municipio
+72041	PR	Puerto Rico	Cidra Municipio
+72043	PR	Puerto Rico	Coamo Municipio
+72045	PR	Puerto Rico	Comerío Municipio
+72047	PR	Puerto Rico	Corozal Municipio
+72049	PR	Puerto Rico	Culebra Municipio
+72051	PR	Puerto Rico	Dorado Municipio
+72053	PR	Puerto Rico	Fajardo Municipio
+72054	PR	Puerto Rico	Florida Municipio
+72057	PR	Puerto Rico	Guayama Municipio
+72059	PR	Puerto Rico	Guayanilla Municipio
+72061	PR	Puerto Rico	Guaynabo Municipio
+72063	PR	Puerto Rico	Gurabo Municipio
+72055	PR	Puerto Rico	Guánica Municipio
+72065	PR	Puerto Rico	Hatillo Municipio
+72067	PR	Puerto Rico	Hormigueros Municipio
+72069	PR	Puerto Rico	Humacao Municipio
+72071	PR	Puerto Rico	Isabela Municipio
+72073	PR	Puerto Rico	Jayuya Municipio
+72075	PR	Puerto Rico	Juana Díaz Municipio
+72077	PR	Puerto Rico	Juncos Municipio
+72079	PR	Puerto Rico	Lajas Municipio
+72081	PR	Puerto Rico	Lares Municipio
+72083	PR	Puerto Rico	Las Marías Municipio
+72085	PR	Puerto Rico	Las Piedras Municipio
+72087	PR	Puerto Rico	Loíza Municipio
+72089	PR	Puerto Rico	Luquillo Municipio
+72091	PR	Puerto Rico	Manatí Municipio
+72093	PR	Puerto Rico	Maricao Municipio
+72095	PR	Puerto Rico	Maunabo Municipio
+72097	PR	Puerto Rico	Mayagüez Municipio
+72099	PR	Puerto Rico	Moca Municipio
+72101	PR	Puerto Rico	Morovis Municipio
+72103	PR	Puerto Rico	Naguabo Municipio
+72105	PR	Puerto Rico	Naranjito Municipio
+72107	PR	Puerto Rico	Orocovis Municipio
+72109	PR	Puerto Rico	Patillas Municipio
+72111	PR	Puerto Rico	Peñuelas Municipio
+72113	PR	Puerto Rico	Ponce Municipio
+72115	PR	Puerto Rico	Quebradillas Municipio
+72117	PR	Puerto Rico	Rincón Municipio
+72119	PR	Puerto Rico	Río Grande Municipio
+72121	PR	Puerto Rico	Sabana Grande Municipio
+72123	PR	Puerto Rico	Salinas Municipio
+72125	PR	Puerto Rico	San Germán Municipio
+72127	PR	Puerto Rico	San Juan Municipio
+72129	PR	Puerto Rico	San Lorenzo Municipio
+72131	PR	Puerto Rico	San Sebastián Municipio
+72133	PR	Puerto Rico	Santa Isabel Municipio
+72135	PR	Puerto Rico	Toa Alta Municipio
+72137	PR	Puerto Rico	Toa Baja Municipio
+72139	PR	Puerto Rico	Trujillo Alto Municipio
+72141	PR	Puerto Rico	Utuado Municipio
+72143	PR	Puerto Rico	Vega Alta Municipio
+72145	PR	Puerto Rico	Vega Baja Municipio
+72147	PR	Puerto Rico	Vieques Municipio
+72149	PR	Puerto Rico	Villalba Municipio
+72151	PR	Puerto Rico	Yabucoa Municipio
+72153	PR	Puerto Rico	Yauco Municipio
+44001	RI	Rhode Island	Bristol County
+44003	RI	Rhode Island	Kent County
+44005	RI	Rhode Island	Newport County
+44007	RI	Rhode Island	Providence County
+44009	RI	Rhode Island	Washington County
+45001	SC	South Carolina	Abbeville County
+45003	SC	South Carolina	Aiken County
+45005	SC	South Carolina	Allendale County
+45007	SC	South Carolina	Anderson County
+45009	SC	South Carolina	Bamberg County
+45011	SC	South Carolina	Barnwell County
+45013	SC	South Carolina	Beaufort County
+45015	SC	South Carolina	Berkeley County
+45017	SC	South Carolina	Calhoun County
+45019	SC	South Carolina	Charleston County
+45021	SC	South Carolina	Cherokee County
+45023	SC	South Carolina	Chester County
+45025	SC	South Carolina	Chesterfield County
+45027	SC	South Carolina	Clarendon County
+45029	SC	South Carolina	Colleton County
+45031	SC	South Carolina	Darlington County
+45033	SC	South Carolina	Dillon County
+45035	SC	South Carolina	Dorchester County
+45037	SC	South Carolina	Edgefield County
+45039	SC	South Carolina	Fairfield County
+45041	SC	South Carolina	Florence County
+45043	SC	South Carolina	Georgetown County
+45045	SC	South Carolina	Greenville County
+45047	SC	South Carolina	Greenwood County
+45049	SC	South Carolina	Hampton County
+45051	SC	South Carolina	Horry County
+45053	SC	South Carolina	Jasper County
+45055	SC	South Carolina	Kershaw County
+45057	SC	South Carolina	Lancaster County
+45059	SC	South Carolina	Laurens County
+45061	SC	South Carolina	Lee County
+45063	SC	South Carolina	Lexington County
+45067	SC	South Carolina	Marion County
+45069	SC	South Carolina	Marlboro County
+45065	SC	South Carolina	McCormick County
+45071	SC	South Carolina	Newberry County
+45073	SC	South Carolina	Oconee County
+45075	SC	South Carolina	Orangeburg County
+45077	SC	South Carolina	Pickens County
+45079	SC	South Carolina	Richland County
+45081	SC	South Carolina	Saluda County
+45083	SC	South Carolina	Spartanburg County
+45085	SC	South Carolina	Sumter County
+45087	SC	South Carolina	Union County
+45089	SC	South Carolina	Williamsburg County
+45091	SC	South Carolina	York County
+46003	SD	South Dakota	Aurora County
+46005	SD	South Dakota	Beadle County
+46007	SD	South Dakota	Bennett County
+46009	SD	South Dakota	Bon Homme County
+46011	SD	South Dakota	Brookings County
+46013	SD	South Dakota	Brown County
+46015	SD	South Dakota	Brule County
+46017	SD	South Dakota	Buffalo County
+46019	SD	South Dakota	Butte County
+46021	SD	South Dakota	Campbell County
+46023	SD	South Dakota	Charles Mix County
+46025	SD	South Dakota	Clark County
+46027	SD	South Dakota	Clay County
+46029	SD	South Dakota	Codington County
+46031	SD	South Dakota	Corson County
+46033	SD	South Dakota	Custer County
+46035	SD	South Dakota	Davison County
+46037	SD	South Dakota	Day County
+46039	SD	South Dakota	Deuel County
+46041	SD	South Dakota	Dewey County
+46043	SD	South Dakota	Douglas County
+46045	SD	South Dakota	Edmunds County
+46047	SD	South Dakota	Fall River County
+46049	SD	South Dakota	Faulk County
+46051	SD	South Dakota	Grant County
+46053	SD	South Dakota	Gregory County
+46055	SD	South Dakota	Haakon County
+46057	SD	South Dakota	Hamlin County
+46059	SD	South Dakota	Hand County
+46061	SD	South Dakota	Hanson County
+46063	SD	South Dakota	Harding County
+46065	SD	South Dakota	Hughes County
+46067	SD	South Dakota	Hutchinson County
+46069	SD	South Dakota	Hyde County
+46071	SD	South Dakota	Jackson County
+46073	SD	South Dakota	Jerauld County
+46075	SD	South Dakota	Jones County
+46077	SD	South Dakota	Kingsbury County
+46079	SD	South Dakota	Lake County
+46081	SD	South Dakota	Lawrence County
+46083	SD	South Dakota	Lincoln County
+46085	SD	South Dakota	Lyman County
+46091	SD	South Dakota	Marshall County
+46087	SD	South Dakota	McCook County
+46089	SD	South Dakota	McPherson County
+46093	SD	South Dakota	Meade County
+46095	SD	South Dakota	Mellette County
+46097	SD	South Dakota	Miner County
+46099	SD	South Dakota	Minnehaha County
+46101	SD	South Dakota	Moody County
+46102	SD	South Dakota	Oglala Lakota County
+46103	SD	South Dakota	Pennington County
+46105	SD	South Dakota	Perkins County
+46107	SD	South Dakota	Potter County
+46109	SD	South Dakota	Roberts County
+46111	SD	South Dakota	Sanborn County
+46115	SD	South Dakota	Spink County
+46117	SD	South Dakota	Stanley County
+46119	SD	South Dakota	Sully County
+46121	SD	South Dakota	Todd County
+46123	SD	South Dakota	Tripp County
+46125	SD	South Dakota	Turner County
+46127	SD	South Dakota	Union County
+46129	SD	South Dakota	Walworth County
+46135	SD	South Dakota	Yankton County
+46137	SD	South Dakota	Ziebach County
+47001	TN	Tennessee	Anderson County
+47003	TN	Tennessee	Bedford County
+47005	TN	Tennessee	Benton County
+47007	TN	Tennessee	Bledsoe County
+47009	TN	Tennessee	Blount County
+47011	TN	Tennessee	Bradley County
+47013	TN	Tennessee	Campbell County
+47015	TN	Tennessee	Cannon County
+47017	TN	Tennessee	Carroll County
+47019	TN	Tennessee	Carter County
+47021	TN	Tennessee	Cheatham County
+47023	TN	Tennessee	Chester County
+47025	TN	Tennessee	Claiborne County
+47027	TN	Tennessee	Clay County
+47029	TN	Tennessee	Cocke County
+47031	TN	Tennessee	Coffee County
+47033	TN	Tennessee	Crockett County
+47035	TN	Tennessee	Cumberland County
+47037	TN	Tennessee	Davidson County
+47041	TN	Tennessee	DeKalb County
+47039	TN	Tennessee	Decatur County
+47043	TN	Tennessee	Dickson County
+47045	TN	Tennessee	Dyer County
+47047	TN	Tennessee	Fayette County
+47049	TN	Tennessee	Fentress County
+47051	TN	Tennessee	Franklin County
+47053	TN	Tennessee	Gibson County
+47055	TN	Tennessee	Giles County
+47057	TN	Tennessee	Grainger County
+47059	TN	Tennessee	Greene County
+47061	TN	Tennessee	Grundy County
+47063	TN	Tennessee	Hamblen County
+47065	TN	Tennessee	Hamilton County
+47067	TN	Tennessee	Hancock County
+47069	TN	Tennessee	Hardeman County
+47071	TN	Tennessee	Hardin County
+47073	TN	Tennessee	Hawkins County
+47075	TN	Tennessee	Haywood County
+47077	TN	Tennessee	Henderson County
+47079	TN	Tennessee	Henry County
+47081	TN	Tennessee	Hickman County
+47083	TN	Tennessee	Houston County
+47085	TN	Tennessee	Humphreys County
+47087	TN	Tennessee	Jackson County
+47089	TN	Tennessee	Jefferson County
+47091	TN	Tennessee	Johnson County
+47093	TN	Tennessee	Knox County
+47095	TN	Tennessee	Lake County
+47097	TN	Tennessee	Lauderdale County
+47099	TN	Tennessee	Lawrence County
+47101	TN	Tennessee	Lewis County
+47103	TN	Tennessee	Lincoln County
+47105	TN	Tennessee	Loudon County
+47111	TN	Tennessee	Macon County
+47113	TN	Tennessee	Madison County
+47115	TN	Tennessee	Marion County
+47117	TN	Tennessee	Marshall County
+47119	TN	Tennessee	Maury County
+47107	TN	Tennessee	McMinn County
+47109	TN	Tennessee	McNairy County
+47121	TN	Tennessee	Meigs County
+47123	TN	Tennessee	Monroe County
+47125	TN	Tennessee	Montgomery County
+47127	TN	Tennessee	Moore County
+47129	TN	Tennessee	Morgan County
+47131	TN	Tennessee	Obion County
+47133	TN	Tennessee	Overton County
+47135	TN	Tennessee	Perry County
+47137	TN	Tennessee	Pickett County
+47139	TN	Tennessee	Polk County
+47141	TN	Tennessee	Putnam County
+47143	TN	Tennessee	Rhea County
+47145	TN	Tennessee	Roane County
+47147	TN	Tennessee	Robertson County
+47149	TN	Tennessee	Rutherford County
+47151	TN	Tennessee	Scott County
+47153	TN	Tennessee	Sequatchie County
+47155	TN	Tennessee	Sevier County
+47157	TN	Tennessee	Shelby County
+47159	TN	Tennessee	Smith County
+47161	TN	Tennessee	Stewart County
+47163	TN	Tennessee	Sullivan County
+47165	TN	Tennessee	Sumner County
+47167	TN	Tennessee	Tipton County
+47169	TN	Tennessee	Trousdale County
+47171	TN	Tennessee	Unicoi County
+47173	TN	Tennessee	Union County
+47175	TN	Tennessee	Van Buren County
+47177	TN	Tennessee	Warren County
+47179	TN	Tennessee	Washington County
+47181	TN	Tennessee	Wayne County
+47183	TN	Tennessee	Weakley County
+47185	TN	Tennessee	White County
+47187	TN	Tennessee	Williamson County
+47189	TN	Tennessee	Wilson County
+48001	TX	Texas	Anderson County
+48003	TX	Texas	Andrews County
+48005	TX	Texas	Angelina County
+48007	TX	Texas	Aransas County
+48009	TX	Texas	Archer County
+48011	TX	Texas	Armstrong County
+48013	TX	Texas	Atascosa County
+48015	TX	Texas	Austin County
+48017	TX	Texas	Bailey County
+48019	TX	Texas	Bandera County
+48021	TX	Texas	Bastrop County
+48023	TX	Texas	Baylor County
+48025	TX	Texas	Bee County
+48027	TX	Texas	Bell County
+48029	TX	Texas	Bexar County
+48031	TX	Texas	Blanco County
+48033	TX	Texas	Borden County
+48035	TX	Texas	Bosque County
+48037	TX	Texas	Bowie County
+48039	TX	Texas	Brazoria County
+48041	TX	Texas	Brazos County
+48043	TX	Texas	Brewster County
+48045	TX	Texas	Briscoe County
+48047	TX	Texas	Brooks County
+48049	TX	Texas	Brown County
+48051	TX	Texas	Burleson County
+48053	TX	Texas	Burnet County
+48055	TX	Texas	Caldwell County
+48057	TX	Texas	Calhoun County
+48059	TX	Texas	Callahan County
+48061	TX	Texas	Cameron County
+48063	TX	Texas	Camp County
+48065	TX	Texas	Carson County
+48067	TX	Texas	Cass County
+48069	TX	Texas	Castro County
+48071	TX	Texas	Chambers County
+48073	TX	Texas	Cherokee County
+48075	TX	Texas	Childress County
+48077	TX	Texas	Clay County
+48079	TX	Texas	Cochran County
+48081	TX	Texas	Coke County
+48083	TX	Texas	Coleman County
+48085	TX	Texas	Collin County
+48087	TX	Texas	Collingsworth County
+48089	TX	Texas	Colorado County
+48091	TX	Texas	Comal County
+48093	TX	Texas	Comanche County
+48095	TX	Texas	Concho County
+48097	TX	Texas	Cooke County
+48099	TX	Texas	Coryell County
+48101	TX	Texas	Cottle County
+48103	TX	Texas	Crane County
+48105	TX	Texas	Crockett County
+48107	TX	Texas	Crosby County
+48109	TX	Texas	Culberson County
+48111	TX	Texas	Dallam County
+48113	TX	Texas	Dallas County
+48115	TX	Texas	Dawson County
+48123	TX	Texas	DeWitt County
+48117	TX	Texas	Deaf Smith County
+48119	TX	Texas	Delta County
+48121	TX	Texas	Denton County
+48125	TX	Texas	Dickens County
+48127	TX	Texas	Dimmit County
+48129	TX	Texas	Donley County
+48131	TX	Texas	Duval County
+48133	TX	Texas	Eastland County
+48135	TX	Texas	Ector County
+48137	TX	Texas	Edwards County
+48141	TX	Texas	El Paso County
+48139	TX	Texas	Ellis County
+48143	TX	Texas	Erath County
+48145	TX	Texas	Falls County
+48147	TX	Texas	Fannin County
+48149	TX	Texas	Fayette County
+48151	TX	Texas	Fisher County
+48153	TX	Texas	Floyd County
+48155	TX	Texas	Foard County
+48157	TX	Texas	Fort Bend County
+48159	TX	Texas	Franklin County
+48161	TX	Texas	Freestone County
+48163	TX	Texas	Frio County
+48165	TX	Texas	Gaines County
+48167	TX	Texas	Galveston County
+48169	TX	Texas	Garza County
+48171	TX	Texas	Gillespie County
+48173	TX	Texas	Glasscock County
+48175	TX	Texas	Goliad County
+48177	TX	Texas	Gonzales County
+48179	TX	Texas	Gray County
+48181	TX	Texas	Grayson County
+48183	TX	Texas	Gregg County
+48185	TX	Texas	Grimes County
+48187	TX	Texas	Guadalupe County
+48189	TX	Texas	Hale County
+48191	TX	Texas	Hall County
+48193	TX	Texas	Hamilton County
+48195	TX	Texas	Hansford County
+48197	TX	Texas	Hardeman County
+48199	TX	Texas	Hardin County
+48201	TX	Texas	Harris County
+48203	TX	Texas	Harrison County
+48205	TX	Texas	Hartley County
+48207	TX	Texas	Haskell County
+48209	TX	Texas	Hays County
+48211	TX	Texas	Hemphill County
+48213	TX	Texas	Henderson County
+48215	TX	Texas	Hidalgo County
+48217	TX	Texas	Hill County
+48219	TX	Texas	Hockley County
+48221	TX	Texas	Hood County
+48223	TX	Texas	Hopkins County
+48225	TX	Texas	Houston County
+48227	TX	Texas	Howard County
+48229	TX	Texas	Hudspeth County
+48231	TX	Texas	Hunt County
+48233	TX	Texas	Hutchinson County
+48235	TX	Texas	Irion County
+48237	TX	Texas	Jack County
+48239	TX	Texas	Jackson County
+48241	TX	Texas	Jasper County
+48243	TX	Texas	Jeff Davis County
+48245	TX	Texas	Jefferson County
+48247	TX	Texas	Jim Hogg County
+48249	TX	Texas	Jim Wells County
+48251	TX	Texas	Johnson County
+48253	TX	Texas	Jones County
+48255	TX	Texas	Karnes County
+48257	TX	Texas	Kaufman County
+48259	TX	Texas	Kendall County
+48261	TX	Texas	Kenedy County
+48263	TX	Texas	Kent County
+48265	TX	Texas	Kerr County
+48267	TX	Texas	Kimble County
+48269	TX	Texas	King County
+48271	TX	Texas	Kinney County
+48273	TX	Texas	Kleberg County
+48275	TX	Texas	Knox County
+48283	TX	Texas	La Salle County
+48277	TX	Texas	Lamar County
+48279	TX	Texas	Lamb County
+48281	TX	Texas	Lampasas County
+48285	TX	Texas	Lavaca County
+48287	TX	Texas	Lee County
+48289	TX	Texas	Leon County
+48291	TX	Texas	Liberty County
+48293	TX	Texas	Limestone County
+48295	TX	Texas	Lipscomb County
+48297	TX	Texas	Live Oak County
+48299	TX	Texas	Llano County
+48301	TX	Texas	Loving County
+48303	TX	Texas	Lubbock County
+48305	TX	Texas	Lynn County
+48313	TX	Texas	Madison County
+48315	TX	Texas	Marion County
+48317	TX	Texas	Martin County
+48319	TX	Texas	Mason County
+48321	TX	Texas	Matagorda County
+48323	TX	Texas	Maverick County
+48307	TX	Texas	McCulloch County
+48309	TX	Texas	McLennan County
+48311	TX	Texas	McMullen County
+48325	TX	Texas	Medina County
+48327	TX	Texas	Menard County
+48329	TX	Texas	Midland County
+48331	TX	Texas	Milam County
+48333	TX	Texas	Mills County
+48335	TX	Texas	Mitchell County
+48337	TX	Texas	Montague County
+48339	TX	Texas	Montgomery County
+48341	TX	Texas	Moore County
+48343	TX	Texas	Morris County
+48345	TX	Texas	Motley County
+48347	TX	Texas	Nacogdoches County
+48349	TX	Texas	Navarro County
+48351	TX	Texas	Newton County
+48353	TX	Texas	Nolan County
+48355	TX	Texas	Nueces County
+48357	TX	Texas	Ochiltree County
+48359	TX	Texas	Oldham County
+48361	TX	Texas	Orange County
+48363	TX	Texas	Palo Pinto County
+48365	TX	Texas	Panola County
+48367	TX	Texas	Parker County
+48369	TX	Texas	Parmer County
+48371	TX	Texas	Pecos County
+48373	TX	Texas	Polk County
+48375	TX	Texas	Potter County
+48377	TX	Texas	Presidio County
+48379	TX	Texas	Rains County
+48381	TX	Texas	Randall County
+48383	TX	Texas	Reagan County
+48385	TX	Texas	Real County
+48387	TX	Texas	Red River County
+48389	TX	Texas	Reeves County
+48391	TX	Texas	Refugio County
+48393	TX	Texas	Roberts County
+48395	TX	Texas	Robertson County
+48397	TX	Texas	Rockwall County
+48399	TX	Texas	Runnels County
+48401	TX	Texas	Rusk County
+48403	TX	Texas	Sabine County
+48405	TX	Texas	San Augustine County
+48407	TX	Texas	San Jacinto County
+48409	TX	Texas	San Patricio County
+48411	TX	Texas	San Saba County
+48413	TX	Texas	Schleicher County
+48415	TX	Texas	Scurry County
+48417	TX	Texas	Shackelford County
+48419	TX	Texas	Shelby County
+48421	TX	Texas	Sherman County
+48423	TX	Texas	Smith County
+48425	TX	Texas	Somervell County
+48427	TX	Texas	Starr County
+48429	TX	Texas	Stephens County
+48431	TX	Texas	Sterling County
+48433	TX	Texas	Stonewall County
+48435	TX	Texas	Sutton County
+48437	TX	Texas	Swisher County
+48439	TX	Texas	Tarrant County
+48441	TX	Texas	Taylor County
+48443	TX	Texas	Terrell County
+48445	TX	Texas	Terry County
+48447	TX	Texas	Throckmorton County
+48449	TX	Texas	Titus County
+48451	TX	Texas	Tom Green County
+48453	TX	Texas	Travis County
+48455	TX	Texas	Trinity County
+48457	TX	Texas	Tyler County
+48459	TX	Texas	Upshur County
+48461	TX	Texas	Upton County
+48463	TX	Texas	Uvalde County
+48465	TX	Texas	Val Verde County
+48467	TX	Texas	Van Zandt County
+48469	TX	Texas	Victoria County
+48471	TX	Texas	Walker County
+48473	TX	Texas	Waller County
+48475	TX	Texas	Ward County
+48477	TX	Texas	Washington County
+48479	TX	Texas	Webb County
+48481	TX	Texas	Wharton County
+48483	TX	Texas	Wheeler County
+48485	TX	Texas	Wichita County
+48487	TX	Texas	Wilbarger County
+48489	TX	Texas	Willacy County
+48491	TX	Texas	Williamson County
+48493	TX	Texas	Wilson County
+48495	TX	Texas	Winkler County
+48497	TX	Texas	Wise County
+48499	TX	Texas	Wood County
+48501	TX	Texas	Yoakum County
+48503	TX	Texas	Young County
+48505	TX	Texas	Zapata County
+48507	TX	Texas	Zavala County
+49001	UT	Utah	Beaver County
+49003	UT	Utah	Box Elder County
+49005	UT	Utah	Cache County
+49007	UT	Utah	Carbon County
+49009	UT	Utah	Daggett County
+49011	UT	Utah	Davis County
+49013	UT	Utah	Duchesne County
+49015	UT	Utah	Emery County
+49017	UT	Utah	Garfield County
+49019	UT	Utah	Grand County
+49021	UT	Utah	Iron County
+49023	UT	Utah	Juab County
+49025	UT	Utah	Kane County
+49027	UT	Utah	Millard County
+49029	UT	Utah	Morgan County
+49031	UT	Utah	Piute County
+49033	UT	Utah	Rich County
+49035	UT	Utah	Salt Lake County
+49037	UT	Utah	San Juan County
+49039	UT	Utah	Sanpete County
+49041	UT	Utah	Sevier County
+49043	UT	Utah	Summit County
+49045	UT	Utah	Tooele County
+49047	UT	Utah	Uintah County
+49049	UT	Utah	Utah County
+49051	UT	Utah	Wasatch County
+49053	UT	Utah	Washington County
+49055	UT	Utah	Wayne County
+49057	UT	Utah	Weber County
+51001	VA	Virginia	Accomack County
+51003	VA	Virginia	Albemarle County
+51510	VA	Virginia	Alexandria city
+51005	VA	Virginia	Alleghany County
+51007	VA	Virginia	Amelia County
+51009	VA	Virginia	Amherst County
+51011	VA	Virginia	Appomattox County
+51013	VA	Virginia	Arlington County
+51015	VA	Virginia	Augusta County
+51017	VA	Virginia	Bath County
+51019	VA	Virginia	Bedford County
+51021	VA	Virginia	Bland County
+51023	VA	Virginia	Botetourt County
+51520	VA	Virginia	Bristol city
+51025	VA	Virginia	Brunswick County
+51027	VA	Virginia	Buchanan County
+51029	VA	Virginia	Buckingham County
+51530	VA	Virginia	Buena Vista city
+51031	VA	Virginia	Campbell County
+51033	VA	Virginia	Caroline County
+51035	VA	Virginia	Carroll County
+51036	VA	Virginia	Charles City County
+51037	VA	Virginia	Charlotte County
+51540	VA	Virginia	Charlottesville city
+51550	VA	Virginia	Chesapeake city
+51041	VA	Virginia	Chesterfield County
+51043	VA	Virginia	Clarke County
+51570	VA	Virginia	Colonial Heights city
+51580	VA	Virginia	Covington city
+51045	VA	Virginia	Craig County
+51047	VA	Virginia	Culpeper County
+51049	VA	Virginia	Cumberland County
+51590	VA	Virginia	Danville city
+51051	VA	Virginia	Dickenson County
+51053	VA	Virginia	Dinwiddie County
+51595	VA	Virginia	Emporia city
+51057	VA	Virginia	Essex County
+51059	VA	Virginia	Fairfax County
+51600	VA	Virginia	Fairfax city
+51610	VA	Virginia	Falls Church city
+51061	VA	Virginia	Fauquier County
+51063	VA	Virginia	Floyd County
+51065	VA	Virginia	Fluvanna County
+51067	VA	Virginia	Franklin County
+51620	VA	Virginia	Franklin city
+51069	VA	Virginia	Frederick County
+51630	VA	Virginia	Fredericksburg city
+51640	VA	Virginia	Galax city
+51071	VA	Virginia	Giles County
+51073	VA	Virginia	Gloucester County
+51075	VA	Virginia	Goochland County
+51077	VA	Virginia	Grayson County
+51079	VA	Virginia	Greene County
+51081	VA	Virginia	Greensville County
+51083	VA	Virginia	Halifax County
+51650	VA	Virginia	Hampton city
+51085	VA	Virginia	Hanover County
+51660	VA	Virginia	Harrisonburg city
+51087	VA	Virginia	Henrico County
+51089	VA	Virginia	Henry County
+51091	VA	Virginia	Highland County
+51670	VA	Virginia	Hopewell city
+51093	VA	Virginia	Isle of Wight County
+51095	VA	Virginia	James City County
+51099	VA	Virginia	King George County
+51101	VA	Virginia	King William County
+51097	VA	Virginia	King and Queen County
+51103	VA	Virginia	Lancaster County
+51105	VA	Virginia	Lee County
+51678	VA	Virginia	Lexington city
+51107	VA	Virginia	Loudoun County
+51109	VA	Virginia	Louisa County
+51111	VA	Virginia	Lunenburg County
+51680	VA	Virginia	Lynchburg city
+51113	VA	Virginia	Madison County
+51685	VA	Virginia	Manassas Park city
+51683	VA	Virginia	Manassas city
+51690	VA	Virginia	Martinsville city
+51115	VA	Virginia	Mathews County
+51117	VA	Virginia	Mecklenburg County
+51119	VA	Virginia	Middlesex County
+51121	VA	Virginia	Montgomery County
+51125	VA	Virginia	Nelson County
+51127	VA	Virginia	New Kent County
+51700	VA	Virginia	Newport News city
+51710	VA	Virginia	Norfolk city
+51131	VA	Virginia	Northampton County
+51133	VA	Virginia	Northumberland County
+51720	VA	Virginia	Norton city
+51135	VA	Virginia	Nottoway County
+51137	VA	Virginia	Orange County
+51139	VA	Virginia	Page County
+51141	VA	Virginia	Patrick County
+51730	VA	Virginia	Petersburg city
+51143	VA	Virginia	Pittsylvania County
+51735	VA	Virginia	Poquoson city
+51740	VA	Virginia	Portsmouth city
+51145	VA	Virginia	Powhatan County
+51147	VA	Virginia	Prince Edward County
+51149	VA	Virginia	Prince George County
+51153	VA	Virginia	Prince William County
+51155	VA	Virginia	Pulaski County
+51750	VA	Virginia	Radford city
+51157	VA	Virginia	Rappahannock County
+51159	VA	Virginia	Richmond County
+51760	VA	Virginia	Richmond city
+51161	VA	Virginia	Roanoke County
+51770	VA	Virginia	Roanoke city
+51163	VA	Virginia	Rockbridge County
+51165	VA	Virginia	Rockingham County
+51167	VA	Virginia	Russell County
+51775	VA	Virginia	Salem city
+51169	VA	Virginia	Scott County
+51171	VA	Virginia	Shenandoah County
+51173	VA	Virginia	Smyth County
+51175	VA	Virginia	Southampton County
+51177	VA	Virginia	Spotsylvania County
+51179	VA	Virginia	Stafford County
+51790	VA	Virginia	Staunton city
+51800	VA	Virginia	Suffolk city
+51181	VA	Virginia	Surry County
+51183	VA	Virginia	Sussex County
+51185	VA	Virginia	Tazewell County
+51810	VA	Virginia	Virginia Beach city
+51187	VA	Virginia	Warren County
+51191	VA	Virginia	Washington County
+51820	VA	Virginia	Waynesboro city
+51193	VA	Virginia	Westmoreland County
+51830	VA	Virginia	Williamsburg city
+51840	VA	Virginia	Winchester city
+51195	VA	Virginia	Wise County
+51197	VA	Virginia	Wythe County
+51199	VA	Virginia	York County
+50001	VT	Vermont	Addison County
+50003	VT	Vermont	Bennington County
+50005	VT	Vermont	Caledonia County
+50007	VT	Vermont	Chittenden County
+50009	VT	Vermont	Essex County
+50011	VT	Vermont	Franklin County
+50013	VT	Vermont	Grand Isle County
+50015	VT	Vermont	Lamoille County
+50017	VT	Vermont	Orange County
+50019	VT	Vermont	Orleans County
+50021	VT	Vermont	Rutland County
+50023	VT	Vermont	Washington County
+50025	VT	Vermont	Windham County
+50027	VT	Vermont	Windsor County
+53001	WA	Washington	Adams County
+53003	WA	Washington	Asotin County
+53005	WA	Washington	Benton County
+53007	WA	Washington	Chelan County
+53009	WA	Washington	Clallam County
+53011	WA	Washington	Clark County
+53013	WA	Washington	Columbia County
+53015	WA	Washington	Cowlitz County
+53017	WA	Washington	Douglas County
+53019	WA	Washington	Ferry County
+53021	WA	Washington	Franklin County
+53023	WA	Washington	Garfield County
+53025	WA	Washington	Grant County
+53027	WA	Washington	Grays Harbor County
+53029	WA	Washington	Island County
+53031	WA	Washington	Jefferson County
+53033	WA	Washington	King County
+53035	WA	Washington	Kitsap County
+53037	WA	Washington	Kittitas County
+53039	WA	Washington	Klickitat County
+53041	WA	Washington	Lewis County
+53043	WA	Washington	Lincoln County
+53045	WA	Washington	Mason County
+53047	WA	Washington	Okanogan County
+53049	WA	Washington	Pacific County
+53051	WA	Washington	Pend Oreille County
+53053	WA	Washington	Pierce County
+53055	WA	Washington	San Juan County
+53057	WA	Washington	Skagit County
+53059	WA	Washington	Skamania County
+53061	WA	Washington	Snohomish County
+53063	WA	Washington	Spokane County
+53065	WA	Washington	Stevens County
+53067	WA	Washington	Thurston County
+53069	WA	Washington	Wahkiakum County
+53071	WA	Washington	Walla Walla County
+53073	WA	Washington	Whatcom County
+53075	WA	Washington	Whitman County
+53077	WA	Washington	Yakima County
+55001	WI	Wisconsin	Adams County
+55003	WI	Wisconsin	Ashland County
+55005	WI	Wisconsin	Barron County
+55007	WI	Wisconsin	Bayfield County
+55009	WI	Wisconsin	Brown County
+55011	WI	Wisconsin	Buffalo County
+55013	WI	Wisconsin	Burnett County
+55015	WI	Wisconsin	Calumet County
+55017	WI	Wisconsin	Chippewa County
+55019	WI	Wisconsin	Clark County
+55021	WI	Wisconsin	Columbia County
+55023	WI	Wisconsin	Crawford County
+55025	WI	Wisconsin	Dane County
+55027	WI	Wisconsin	Dodge County
+55029	WI	Wisconsin	Door County
+55031	WI	Wisconsin	Douglas County
+55033	WI	Wisconsin	Dunn County
+55035	WI	Wisconsin	Eau Claire County
+55037	WI	Wisconsin	Florence County
+55039	WI	Wisconsin	Fond du Lac County
+55041	WI	Wisconsin	Forest County
+55043	WI	Wisconsin	Grant County
+55045	WI	Wisconsin	Green County
+55047	WI	Wisconsin	Green Lake County
+55049	WI	Wisconsin	Iowa County
+55051	WI	Wisconsin	Iron County
+55053	WI	Wisconsin	Jackson County
+55055	WI	Wisconsin	Jefferson County
+55057	WI	Wisconsin	Juneau County
+55059	WI	Wisconsin	Kenosha County
+55061	WI	Wisconsin	Kewaunee County
+55063	WI	Wisconsin	La Crosse County
+55065	WI	Wisconsin	Lafayette County
+55067	WI	Wisconsin	Langlade County
+55069	WI	Wisconsin	Lincoln County
+55071	WI	Wisconsin	Manitowoc County
+55073	WI	Wisconsin	Marathon County
+55075	WI	Wisconsin	Marinette County
+55077	WI	Wisconsin	Marquette County
+55078	WI	Wisconsin	Menominee County
+55079	WI	Wisconsin	Milwaukee County
+55081	WI	Wisconsin	Monroe County
+55083	WI	Wisconsin	Oconto County
+55085	WI	Wisconsin	Oneida County
+55087	WI	Wisconsin	Outagamie County
+55089	WI	Wisconsin	Ozaukee County
+55091	WI	Wisconsin	Pepin County
+55093	WI	Wisconsin	Pierce County
+55095	WI	Wisconsin	Polk County
+55097	WI	Wisconsin	Portage County
+55099	WI	Wisconsin	Price County
+55101	WI	Wisconsin	Racine County
+55103	WI	Wisconsin	Richland County
+55105	WI	Wisconsin	Rock County
+55107	WI	Wisconsin	Rusk County
+55111	WI	Wisconsin	Sauk County
+55113	WI	Wisconsin	Sawyer County
+55115	WI	Wisconsin	Shawano County
+55117	WI	Wisconsin	Sheboygan County
+55109	WI	Wisconsin	St. Croix County
+55119	WI	Wisconsin	Taylor County
+55121	WI	Wisconsin	Trempealeau County
+55123	WI	Wisconsin	Vernon County
+55125	WI	Wisconsin	Vilas County
+55127	WI	Wisconsin	Walworth County
+55129	WI	Wisconsin	Washburn County
+55131	WI	Wisconsin	Washington County
+55133	WI	Wisconsin	Waukesha County
+55135	WI	Wisconsin	Waupaca County
+55137	WI	Wisconsin	Waushara County
+55139	WI	Wisconsin	Winnebago County
+55141	WI	Wisconsin	Wood County
+54001	WV	West Virginia	Barbour County
+54003	WV	West Virginia	Berkeley County
+54005	WV	West Virginia	Boone County
+54007	WV	West Virginia	Braxton County
+54009	WV	West Virginia	Brooke County
+54011	WV	West Virginia	Cabell County
+54013	WV	West Virginia	Calhoun County
+54015	WV	West Virginia	Clay County
+54017	WV	West Virginia	Doddridge County
+54019	WV	West Virginia	Fayette County
+54021	WV	West Virginia	Gilmer County
+54023	WV	West Virginia	Grant County
+54025	WV	West Virginia	Greenbrier County
+54027	WV	West Virginia	Hampshire County
+54029	WV	West Virginia	Hancock County
+54031	WV	West Virginia	Hardy County
+54033	WV	West Virginia	Harrison County
+54035	WV	West Virginia	Jackson County
+54037	WV	West Virginia	Jefferson County
+54039	WV	West Virginia	Kanawha County
+54041	WV	West Virginia	Lewis County
+54043	WV	West Virginia	Lincoln County
+54045	WV	West Virginia	Logan County
+54049	WV	West Virginia	Marion County
+54051	WV	West Virginia	Marshall County
+54053	WV	West Virginia	Mason County
+54047	WV	West Virginia	McDowell County
+54055	WV	West Virginia	Mercer County
+54057	WV	West Virginia	Mineral County
+54059	WV	West Virginia	Mingo County
+54061	WV	West Virginia	Monongalia County
+54063	WV	West Virginia	Monroe County
+54065	WV	West Virginia	Morgan County
+54067	WV	West Virginia	Nicholas County
+54069	WV	West Virginia	Ohio County
+54071	WV	West Virginia	Pendleton County
+54073	WV	West Virginia	Pleasants County
+54075	WV	West Virginia	Pocahontas County
+54077	WV	West Virginia	Preston County
+54079	WV	West Virginia	Putnam County
+54081	WV	West Virginia	Raleigh County
+54083	WV	West Virginia	Randolph County
+54085	WV	West Virginia	Ritchie County
+54087	WV	West Virginia	Roane County
+54089	WV	West Virginia	Summers County
+54091	WV	West Virginia	Taylor County
+54093	WV	West Virginia	Tucker County
+54095	WV	West Virginia	Tyler County
+54097	WV	West Virginia	Upshur County
+54099	WV	West Virginia	Wayne County
+54101	WV	West Virginia	Webster County
+54103	WV	West Virginia	Wetzel County
+54105	WV	West Virginia	Wirt County
+54107	WV	West Virginia	Wood County
+54109	WV	West Virginia	Wyoming County
+56001	WY	Wyoming	Albany County
+56003	WY	Wyoming	Big Horn County
+56005	WY	Wyoming	Campbell County
+56007	WY	Wyoming	Carbon County
+56009	WY	Wyoming	Converse County
+56011	WY	Wyoming	Crook County
+56013	WY	Wyoming	Fremont County
+56015	WY	Wyoming	Goshen County
+56017	WY	Wyoming	Hot Springs County
+56019	WY	Wyoming	Johnson County
+56021	WY	Wyoming	Laramie County
+56023	WY	Wyoming	Lincoln County
+56025	WY	Wyoming	Natrona County
+56027	WY	Wyoming	Niobrara County
+56029	WY	Wyoming	Park County
+56031	WY	Wyoming	Platte County
+56033	WY	Wyoming	Sheridan County
+56035	WY	Wyoming	Sublette County
+56037	WY	Wyoming	Sweetwater County
+56039	WY	Wyoming	Teton County
+56041	WY	Wyoming	Uinta County
+56043	WY	Wyoming	Washakie County
+56045	WY	Wyoming	Weston County
